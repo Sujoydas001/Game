@@ -1,0 +1,3424 @@
+
+........NEW SESSION STARTS ........12:08:2023-00:02:28
+
+12:08:2023-00:02:28: MESSAGE :______SNAKE GAME_______
+12:08:2023-00:02:28: MESSAGE :no file exists 
+12:08:2023-00:02:28: MESSAGE :no records exists 
+12:08:2023-00:02:40: MESSAGE :generating new game
+12:08:2023-00:02:40: MESSAGE :game resumed
+12:08:2023-00:02:40: MESSAGE :panel setup done ....
+12:08:2023-00:02:40: MESSAGE :gameover status : false
+12:08:2023-00:02:40: MESSAGE :snake position auto update while not moving ....
+12:08:2023-00:02:40: MESSAGE :current game over status : false
+12:08:2023-00:02:40: MESSAGE :gems manager starts adding gems....
+12:08:2023-00:02:40: MESSAGE :game loop starts
+12:08:2023-00:02:40: MESSAGE :next calling generate new game 
+12:08:2023-00:02:41: MESSAGE :frame : 119 : update : 199
+12:08:2023-00:02:42: MESSAGE :frame : 121 : update : 201
+12:08:2023-00:02:43: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:02:44: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:02:45: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:02:46: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:02:47: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:02:48: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:02:49: MESSAGE :frame : 120 : update : 198
+12:08:2023-00:02:50: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:02:51: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:02:52: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:02:53: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:02:54: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:02:55: MESSAGE :frame : 120 : update : 200
+
+........NEW SESSION STARTS ........12:08:2023-00:03:48
+
+12:08:2023-00:03:48: MESSAGE :______SNAKE GAME_______
+12:08:2023-00:03:48: MESSAGE :no file exists 
+12:08:2023-00:03:48: MESSAGE :no records exists 
+12:08:2023-00:03:53: MESSAGE :generating new game
+12:08:2023-00:03:53: MESSAGE :game resumed
+12:08:2023-00:03:53: MESSAGE :panel setup done ....
+12:08:2023-00:03:53: MESSAGE :gameover status : false
+12:08:2023-00:03:53: MESSAGE :snake position auto update while not moving ....
+12:08:2023-00:03:53: MESSAGE :gems manager starts adding gems....
+12:08:2023-00:03:53: MESSAGE :current game over status : false
+12:08:2023-00:03:53: MESSAGE :game loop starts
+12:08:2023-00:03:53: MESSAGE :next calling generate new game 
+12:08:2023-00:03:54: MESSAGE :frame : 0 : update : 0
+12:08:2023-00:03:55: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:03:56: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:03:57: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:03:58: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:03:59: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:04:00: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:04:01: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:04:02: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:04:03: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:04:04: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:04:05: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:04:06: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:04:07: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:04:08: MESSAGE :frame : 120 : update : 199
+12:08:2023-00:04:09: MESSAGE :game paused
+12:08:2023-00:04:09: MESSAGE :frame : 120 : update : 199
+12:08:2023-00:04:10: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:04:11: MESSAGE :game exit
+12:08:2023-00:04:11: MESSAGE :gameOver status to run next iteration : true
+
+........NEW SESSION STARTS ........12:08:2023-00:04:49
+
+12:08:2023-00:04:49: MESSAGE :______SNAKE GAME_______
+12:08:2023-00:04:49: MESSAGE :no file exists 
+12:08:2023-00:04:49: MESSAGE :no records exists 
+12:08:2023-00:04:53: MESSAGE :generating new game
+12:08:2023-00:04:53: MESSAGE :game resumed
+12:08:2023-00:04:53: MESSAGE :panel setup done ....
+12:08:2023-00:04:53: MESSAGE :gameover status : false
+12:08:2023-00:04:53: MESSAGE :snake position auto update while not moving ....
+12:08:2023-00:04:53: MESSAGE :current game over status : false
+12:08:2023-00:04:53: MESSAGE :gems manager starts adding gems....
+12:08:2023-00:04:53: MESSAGE :game loop starts
+12:08:2023-00:04:53: MESSAGE :next calling generate new game 
+12:08:2023-00:04:54: MESSAGE :frame : 0 : update : 0
+12:08:2023-00:04:55: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:04:56: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:04:57: MESSAGE :frame : 120 : update : 200
+
+........NEW SESSION STARTS ........12:08:2023-00:06:39
+
+12:08:2023-00:06:39: MESSAGE :______SNAKE GAME_______
+12:08:2023-00:06:39: MESSAGE :no file exists 
+12:08:2023-00:06:39: MESSAGE :no records exists 
+12:08:2023-00:06:43: MESSAGE :generating new game
+12:08:2023-00:06:43: MESSAGE :game resumed
+12:08:2023-00:06:43: MESSAGE :panel setup done ....
+12:08:2023-00:06:43: MESSAGE :gameover status : false
+12:08:2023-00:06:43: MESSAGE :snake position auto update while not moving ....
+12:08:2023-00:06:43: MESSAGE :current game over status : false
+12:08:2023-00:06:43: MESSAGE :gems manager starts adding gems....
+12:08:2023-00:06:43: MESSAGE :game loop starts
+12:08:2023-00:06:43: MESSAGE :next calling generate new game 
+12:08:2023-00:06:44: MESSAGE :frame : 0 : update : 1
+12:08:2023-00:06:45: MESSAGE :frame : 0 : update : 0
+12:08:2023-00:06:46: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:06:47: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:06:47: MESSAGE :high score changed 
+12:08:2023-00:06:47: MESSAGE : set high score 
+12:08:2023-00:06:47: MESSAGE : score file not found creating new file
+12:08:2023-00:06:48: MESSAGE :setting records 
+12:08:2023-00:06:48: MESSAGE : records file not found creating new file
+12:08:2023-00:06:48: MESSAGE :game over
+12:08:2023-00:06:48: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-00:06:48: MESSAGE :gameOver status to run next iteration : true
+12:08:2023-00:06:53: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-00:06:57
+
+12:08:2023-00:06:57: MESSAGE :______SNAKE GAME_______
+12:08:2023-00:06:57: MESSAGE : score file found
+12:08:2023-00:06:57: MESSAGE :file iteration time
+12:08:2023-00:06:57: MESSAGE :getting high score :1
+12:08:2023-00:06:57: MESSAGE : records found
+12:08:2023-00:06:57: MESSAGE :file iteration time
+12:08:2023-00:06:57: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-00:07:05: MESSAGE :generating new game
+12:08:2023-00:07:05: MESSAGE :game resumed
+12:08:2023-00:07:05: MESSAGE :panel setup done ....
+12:08:2023-00:07:05: MESSAGE :gameover status : false
+12:08:2023-00:07:05: MESSAGE :gems manager starts adding gems....
+12:08:2023-00:07:05: MESSAGE :snake position auto update while not moving ....
+12:08:2023-00:07:05: MESSAGE :current game over status : false
+12:08:2023-00:07:05: MESSAGE :game loop starts
+12:08:2023-00:07:05: MESSAGE :next calling generate new game 
+12:08:2023-00:07:06: MESSAGE :frame : 119 : update : 199
+12:08:2023-00:07:07: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:07:08: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:07:09: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:07:10: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:07:11: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:07:12: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:07:13: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:07:14: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:07:15: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:07:16: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:07:17: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:07:18: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:07:19: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:07:20: MESSAGE :frame : 120 : update : 200
+12:08:2023-00:07:21: MESSAGE :frame : 120 : update : 199
+12:08:2023-00:07:22: MESSAGE :high score changed 
+12:08:2023-00:07:22: MESSAGE : set high score 
+12:08:2023-00:07:22: MESSAGE : score file found
+12:08:2023-00:07:22: MESSAGE :setting records 
+12:08:2023-00:07:22: MESSAGE : records file found
+12:08:2023-00:07:22: MESSAGE :game over
+12:08:2023-00:07:22: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-00:07:22: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-00:07:22: MESSAGE :gameOver status to run next iteration : true
+12:08:2023-00:07:28: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-01:12:58
+
+12:08:2023-01:12:58: MESSAGE :______SNAKE GAME_______
+12:08:2023-01:12:58: MESSAGE : score file found
+12:08:2023-01:12:58: MESSAGE :file iteration time
+12:08:2023-01:12:58: MESSAGE :getting high score :6
+12:08:2023-01:12:58: MESSAGE : records found
+12:08:2023-01:12:58: MESSAGE :file iteration time
+12:08:2023-01:12:58: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-01:12:58: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-01:13:28: MESSAGE :generating new game
+12:08:2023-01:13:28: MESSAGE :game resumed
+12:08:2023-01:13:28: MESSAGE :panel setup done ....
+12:08:2023-01:13:28: MESSAGE :gameover status : false
+12:08:2023-01:13:28: MESSAGE :snake position auto update while not moving ....
+12:08:2023-01:13:28: MESSAGE :gems manager starts adding gems....
+12:08:2023-01:13:28: MESSAGE :current game over status : false
+12:08:2023-01:13:28: MESSAGE :game loop starts
+12:08:2023-01:13:28: MESSAGE :next calling generate new game 
+12:08:2023-01:13:29: MESSAGE :frame : 0 : update : 0
+12:08:2023-01:13:30: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:13:31: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:13:32: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:13:33: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:13:34: MESSAGE :frame : 0 : update : 0
+12:08:2023-01:13:35: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:13:36: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:13:37: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:13:38: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:13:39: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:13:40: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:13:41: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:13:42: MESSAGE :frame : 120 : update : 199
+12:08:2023-01:13:43: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:13:44: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:13:45: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:13:46: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:13:47: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:13:48: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:13:49: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:13:50: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:13:51: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:13:52: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:13:53: MESSAGE :frame : 119 : update : 199
+12:08:2023-01:13:54: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:13:55: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:13:56: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:13:57: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:13:58: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:13:58: MESSAGE :high score changed 
+12:08:2023-01:13:58: MESSAGE : set high score 
+12:08:2023-01:13:58: MESSAGE : score file found
+12:08:2023-01:13:58: MESSAGE :setting records 
+12:08:2023-01:13:58: MESSAGE : records file found
+12:08:2023-01:13:58: MESSAGE :game over
+12:08:2023-01:13:58: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-01:13:58: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-01:13:58: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-01:13:58: MESSAGE :gameOver status to run next iteration : true
+12:08:2023-01:14:08: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-01:14:44
+
+12:08:2023-01:14:44: MESSAGE :______SNAKE GAME_______
+12:08:2023-01:14:44: MESSAGE : score file found
+12:08:2023-01:14:44: MESSAGE :file iteration time
+12:08:2023-01:14:44: MESSAGE :getting high score :13
+12:08:2023-01:14:44: MESSAGE : records found
+12:08:2023-01:14:44: MESSAGE :file iteration time
+12:08:2023-01:14:45: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-01:14:45: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-01:14:45: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-01:15:04: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-01:17:33
+
+12:08:2023-01:17:33: MESSAGE :______SNAKE GAME_______
+12:08:2023-01:17:33: MESSAGE : score file found
+12:08:2023-01:17:33: MESSAGE :file iteration time
+12:08:2023-01:17:33: MESSAGE :getting high score :13
+12:08:2023-01:17:33: MESSAGE : records found
+12:08:2023-01:17:33: MESSAGE :file iteration time
+12:08:2023-01:17:33: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-01:17:33: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-01:17:33: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-01:17:42: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-01:17:55
+
+12:08:2023-01:17:55: MESSAGE :______SNAKE GAME_______
+12:08:2023-01:17:55: MESSAGE : score file found
+12:08:2023-01:17:55: MESSAGE :file iteration time
+12:08:2023-01:17:55: MESSAGE :getting high score :13
+12:08:2023-01:17:55: MESSAGE : records found
+12:08:2023-01:17:56: MESSAGE :file iteration time
+12:08:2023-01:17:56: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-01:17:56: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-01:17:56: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-01:18:02: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-01:31:58
+
+12:08:2023-01:31:58: MESSAGE :______SNAKE GAME_______
+12:08:2023-01:31:58: MESSAGE : score file found
+12:08:2023-01:31:58: MESSAGE :file iteration time
+12:08:2023-01:31:58: MESSAGE :getting high score :13
+12:08:2023-01:31:58: MESSAGE : records found
+12:08:2023-01:31:58: MESSAGE :file iteration time
+12:08:2023-01:31:59: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-01:31:59: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-01:31:59: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-01:32:04: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-01:32:20
+
+12:08:2023-01:32:20: MESSAGE :______SNAKE GAME_______
+12:08:2023-01:32:20: MESSAGE : score file found
+12:08:2023-01:32:20: MESSAGE :file iteration time
+12:08:2023-01:32:20: MESSAGE :getting high score :13
+12:08:2023-01:32:20: MESSAGE : records found
+12:08:2023-01:32:20: MESSAGE :file iteration time
+12:08:2023-01:32:20: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-01:32:20: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-01:32:20: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-01:32:31: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-01:33:01
+
+12:08:2023-01:33:01: MESSAGE :______SNAKE GAME_______
+12:08:2023-01:33:01: MESSAGE : score file found
+12:08:2023-01:33:01: MESSAGE :file iteration time
+12:08:2023-01:33:01: MESSAGE :getting high score :13
+12:08:2023-01:33:01: MESSAGE : records found
+12:08:2023-01:33:01: MESSAGE :file iteration time
+12:08:2023-01:33:01: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-01:33:01: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-01:33:01: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-01:33:07: MESSAGE :generating new game
+12:08:2023-01:33:07: MESSAGE :game resumed
+12:08:2023-01:33:07: MESSAGE :panel setup done ....
+12:08:2023-01:33:07: MESSAGE :gameover status : false
+12:08:2023-01:33:07: MESSAGE :snake position auto update while not moving ....
+12:08:2023-01:33:07: MESSAGE :gems manager starts adding gems....
+12:08:2023-01:33:07: MESSAGE :current game over status : false
+12:08:2023-01:33:07: MESSAGE :game loop starts
+12:08:2023-01:33:07: MESSAGE :next calling generate new game 
+12:08:2023-01:33:08: MESSAGE :frame : 119 : update : 199
+
+........NEW SESSION STARTS ........12:08:2023-01:33:31
+
+12:08:2023-01:33:31: MESSAGE :______SNAKE GAME_______
+12:08:2023-01:33:31: MESSAGE : score file found
+12:08:2023-01:33:31: MESSAGE :file iteration time
+12:08:2023-01:33:31: MESSAGE :getting high score :13
+12:08:2023-01:33:31: MESSAGE : records found
+12:08:2023-01:33:31: MESSAGE :file iteration time
+12:08:2023-01:33:31: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-01:33:31: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-01:33:31: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-01:33:37: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-01:33:56
+
+12:08:2023-01:33:56: MESSAGE :______SNAKE GAME_______
+12:08:2023-01:33:56: MESSAGE : score file found
+12:08:2023-01:33:56: MESSAGE :file iteration time
+12:08:2023-01:33:56: MESSAGE :getting high score :13
+12:08:2023-01:33:56: MESSAGE : records found
+12:08:2023-01:33:56: MESSAGE :file iteration time
+12:08:2023-01:33:57: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-01:33:57: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-01:33:57: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-01:34:09: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-01:34:17
+
+12:08:2023-01:34:17: MESSAGE :______SNAKE GAME_______
+12:08:2023-01:34:17: MESSAGE : score file found
+12:08:2023-01:34:17: MESSAGE :file iteration time
+12:08:2023-01:34:17: MESSAGE :getting high score :13
+12:08:2023-01:34:17: MESSAGE : records found
+12:08:2023-01:34:17: MESSAGE :file iteration time
+12:08:2023-01:34:17: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-01:34:17: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-01:34:17: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-01:34:23: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-01:36:10
+
+12:08:2023-01:36:10: MESSAGE :______SNAKE GAME_______
+12:08:2023-01:36:10: MESSAGE : score file found
+12:08:2023-01:36:10: MESSAGE :file iteration time
+12:08:2023-01:36:10: MESSAGE :getting high score :13
+12:08:2023-01:36:10: MESSAGE : records found
+12:08:2023-01:36:10: MESSAGE :file iteration time
+12:08:2023-01:36:10: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-01:36:10: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-01:36:10: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-01:36:24: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-01:37:24
+
+12:08:2023-01:37:24: MESSAGE :______SNAKE GAME_______
+12:08:2023-01:37:24: MESSAGE : score file found
+12:08:2023-01:37:24: MESSAGE :file iteration time
+12:08:2023-01:37:24: MESSAGE :getting high score :13
+12:08:2023-01:37:24: MESSAGE : records found
+12:08:2023-01:37:24: MESSAGE :file iteration time
+12:08:2023-01:37:24: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-01:37:24: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-01:37:24: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-01:37:41: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-01:40:25
+
+12:08:2023-01:40:25: MESSAGE :______SNAKE GAME_______
+12:08:2023-01:40:25: MESSAGE : score file found
+12:08:2023-01:40:25: MESSAGE :file iteration time
+12:08:2023-01:40:25: MESSAGE :getting high score :13
+12:08:2023-01:40:25: MESSAGE : records found
+12:08:2023-01:40:26: MESSAGE :file iteration time
+12:08:2023-01:40:26: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-01:40:26: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-01:40:26: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-01:40:59: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-01:41:02
+
+12:08:2023-01:41:02: MESSAGE :______SNAKE GAME_______
+12:08:2023-01:41:02: MESSAGE : score file found
+12:08:2023-01:41:03: MESSAGE :file iteration time
+12:08:2023-01:41:03: MESSAGE :getting high score :13
+12:08:2023-01:41:03: MESSAGE : records found
+12:08:2023-01:41:03: MESSAGE :file iteration time
+12:08:2023-01:41:03: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-01:41:03: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-01:41:03: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-01:41:24: MESSAGE :generating new game
+12:08:2023-01:41:24: MESSAGE :game resumed
+12:08:2023-01:41:24: MESSAGE :panel setup done ....
+12:08:2023-01:41:24: MESSAGE :gameover status : false
+12:08:2023-01:41:24: MESSAGE :snake position auto update while not moving ....
+12:08:2023-01:41:24: MESSAGE :gems manager starts adding gems....
+12:08:2023-01:41:24: MESSAGE :current game over status : false
+12:08:2023-01:41:24: MESSAGE :game loop starts
+12:08:2023-01:41:24: MESSAGE :next calling generate new game 
+12:08:2023-01:41:25: MESSAGE :frame : 0 : update : 0
+12:08:2023-01:41:26: MESSAGE :frame : 120 : update : 201
+12:08:2023-01:41:27: MESSAGE :frame : 120 : update : 199
+12:08:2023-01:41:28: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:41:29: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:41:30: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:41:31: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:41:32: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:41:33: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:41:34: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:41:35: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:41:36: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:41:37: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:41:38: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:41:39: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:41:40: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:41:41: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:41:42: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:41:43: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:41:44: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:41:45: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:41:46: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:41:47: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:41:48: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:41:49: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:41:50: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:41:51: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:41:52: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:41:53: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:41:54: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:41:55: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:41:56: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:41:57: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:41:58: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:41:59: MESSAGE :self bite
+12:08:2023-01:41:59: MESSAGE : set high score 
+12:08:2023-01:41:59: MESSAGE : score file found
+12:08:2023-01:41:59: MESSAGE :setting records 
+12:08:2023-01:41:59: MESSAGE : records file found
+12:08:2023-01:41:59: MESSAGE :game over
+12:08:2023-01:41:59: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-01:41:59: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-01:41:59: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-01:41:59: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-01:41:59: MESSAGE :gameOver status to run next iteration : true
+12:08:2023-01:42:03: MESSAGE :generating new game
+12:08:2023-01:42:03: MESSAGE :game resumed
+12:08:2023-01:42:03: MESSAGE :panel setup done ....
+12:08:2023-01:42:03: MESSAGE :gameover status : false
+12:08:2023-01:42:03: MESSAGE :snake position auto update while not moving ....
+12:08:2023-01:42:03: MESSAGE :gems manager starts adding gems....
+12:08:2023-01:42:03: MESSAGE :current game over status : false
+12:08:2023-01:42:03: MESSAGE :game loop starts
+12:08:2023-01:42:03: MESSAGE :next calling generate new game 
+12:08:2023-01:42:04: MESSAGE :frame : 119 : update : 199
+12:08:2023-01:42:05: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:06: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:07: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:08: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:09: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:10: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:11: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:12: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:13: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:14: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:15: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:16: MESSAGE :frame : 0 : update : 0
+12:08:2023-01:42:17: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:18: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:19: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:20: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:21: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:22: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:23: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:24: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:25: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:26: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:27: MESSAGE :frame : 120 : update : 199
+12:08:2023-01:42:28: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:29: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:30: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:31: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:32: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:33: MESSAGE :frame : 0 : update : 0
+12:08:2023-01:42:34: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:35: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:36: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:37: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:38: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:39: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:40: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:41: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:42: MESSAGE :frame : 120 : update : 199
+12:08:2023-01:42:43: MESSAGE :frame : 120 : update : 201
+12:08:2023-01:42:44: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:45: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:46: MESSAGE :frame : 120 : update : 199
+12:08:2023-01:42:47: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:48: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:49: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:50: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:51: MESSAGE :frame : 120 : update : 200
+12:08:2023-01:42:52: MESSAGE :self bite
+12:08:2023-01:42:52: MESSAGE :high score changed 
+12:08:2023-01:42:52: MESSAGE : set high score 
+12:08:2023-01:42:52: MESSAGE : score file found
+12:08:2023-01:42:52: MESSAGE :setting records 
+12:08:2023-01:42:52: MESSAGE : records file found
+12:08:2023-01:42:52: MESSAGE :game over
+12:08:2023-01:42:52: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-01:42:52: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-01:42:52: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-01:42:52: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-01:42:52: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-01:42:52: MESSAGE :gameOver status to run next iteration : true
+
+........NEW SESSION STARTS ........12:08:2023-01:43:07
+
+12:08:2023-01:43:07: MESSAGE :______SNAKE GAME_______
+12:08:2023-01:43:07: MESSAGE : score file found
+12:08:2023-01:43:07: MESSAGE :file iteration time
+12:08:2023-01:43:07: MESSAGE :getting high score :23
+12:08:2023-01:43:07: MESSAGE : records found
+12:08:2023-01:43:07: MESSAGE :file iteration time
+12:08:2023-01:43:07: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-01:43:07: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-01:43:07: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-01:43:07: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-01:43:07: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-01:43:10: MESSAGE :game exit
+12:08:2023-01:43:11: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-01:43:18
+
+12:08:2023-01:43:18: MESSAGE :______SNAKE GAME_______
+12:08:2023-01:43:18: MESSAGE : score file found
+12:08:2023-01:43:18: MESSAGE :file iteration time
+12:08:2023-01:43:18: MESSAGE :getting high score :23
+12:08:2023-01:43:18: MESSAGE : records found
+12:08:2023-01:43:18: MESSAGE :file iteration time
+12:08:2023-01:43:19: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-01:43:19: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-01:43:19: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-01:43:19: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-01:43:19: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-01:43:32: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-01:43:51
+
+12:08:2023-01:43:51: MESSAGE :______SNAKE GAME_______
+12:08:2023-01:43:51: MESSAGE : score file found
+12:08:2023-01:43:51: MESSAGE :file iteration time
+12:08:2023-01:43:51: MESSAGE :getting high score :23
+12:08:2023-01:43:51: MESSAGE : records found
+12:08:2023-01:43:51: MESSAGE :file iteration time
+12:08:2023-01:43:51: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-01:43:51: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-01:43:51: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-01:43:51: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-01:43:51: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-01:44:10: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-01:45:31
+
+12:08:2023-01:45:31: MESSAGE :______SNAKE GAME_______
+12:08:2023-01:45:31: MESSAGE : score file found
+12:08:2023-01:45:31: MESSAGE :file iteration time
+12:08:2023-01:45:31: MESSAGE :getting high score :23
+12:08:2023-01:45:31: MESSAGE : records found
+12:08:2023-01:45:32: MESSAGE :file iteration time
+12:08:2023-01:45:32: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-01:45:32: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-01:45:32: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-01:45:32: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-01:45:32: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-01:45:35: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-01:49:37
+
+12:08:2023-01:49:37: MESSAGE :______SNAKE GAME_______
+12:08:2023-01:49:37: MESSAGE : score file found
+12:08:2023-01:49:37: MESSAGE :file iteration time
+12:08:2023-01:49:37: MESSAGE :getting high score :23
+12:08:2023-01:49:37: MESSAGE : records found
+12:08:2023-01:49:37: MESSAGE :file iteration time
+12:08:2023-01:49:38: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-01:49:38: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-01:49:38: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-01:49:38: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-01:49:38: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-01:49:58: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-01:51:36
+
+12:08:2023-01:51:36: MESSAGE :______SNAKE GAME_______
+12:08:2023-01:51:36: MESSAGE : score file found
+12:08:2023-01:51:36: MESSAGE :file iteration time
+12:08:2023-01:51:36: MESSAGE :getting high score :23
+12:08:2023-01:51:36: MESSAGE : records found
+12:08:2023-01:51:36: MESSAGE :file iteration time
+12:08:2023-01:51:36: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-01:51:36: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-01:51:36: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-01:51:36: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-01:51:36: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-01:51:40: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-01:51:50
+
+12:08:2023-01:51:50: MESSAGE :______SNAKE GAME_______
+12:08:2023-01:51:50: MESSAGE : score file found
+12:08:2023-01:51:50: MESSAGE :file iteration time
+12:08:2023-01:51:50: MESSAGE :getting high score :23
+12:08:2023-01:51:50: MESSAGE : records found
+12:08:2023-01:51:50: MESSAGE :file iteration time
+12:08:2023-01:51:51: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-01:51:51: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-01:51:51: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-01:51:51: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-01:51:51: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-01:51:56: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-01:52:31
+
+12:08:2023-01:52:31: MESSAGE :______SNAKE GAME_______
+12:08:2023-01:52:31: MESSAGE : score file found
+12:08:2023-01:52:31: MESSAGE :file iteration time
+12:08:2023-01:52:31: MESSAGE :getting high score :23
+12:08:2023-01:52:31: MESSAGE : records found
+12:08:2023-01:52:31: MESSAGE :file iteration time
+12:08:2023-01:52:31: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-01:52:31: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-01:52:31: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-01:52:31: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-01:52:31: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-01:52:34: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-01:52:42
+
+12:08:2023-01:52:42: MESSAGE :______SNAKE GAME_______
+12:08:2023-01:52:42: MESSAGE : score file found
+12:08:2023-01:52:42: MESSAGE :file iteration time
+12:08:2023-01:52:42: MESSAGE :getting high score :23
+12:08:2023-01:52:42: MESSAGE : records found
+12:08:2023-01:52:42: MESSAGE :file iteration time
+12:08:2023-01:52:42: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-01:52:42: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-01:52:42: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-01:52:42: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-01:52:42: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-01:52:45: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-01:53:08
+
+12:08:2023-01:53:08: MESSAGE :______SNAKE GAME_______
+12:08:2023-01:53:08: MESSAGE : score file found
+12:08:2023-01:53:08: MESSAGE :file iteration time
+12:08:2023-01:53:08: MESSAGE :getting high score :23
+12:08:2023-01:53:08: MESSAGE : records found
+12:08:2023-01:53:08: MESSAGE :file iteration time
+12:08:2023-01:53:09: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-01:53:09: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-01:53:09: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-01:53:09: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-01:53:09: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-01:53:26: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-01:54:10
+
+12:08:2023-01:54:10: MESSAGE :______SNAKE GAME_______
+12:08:2023-01:54:10: MESSAGE : score file found
+12:08:2023-01:54:10: MESSAGE :file iteration time
+12:08:2023-01:54:10: MESSAGE :getting high score :23
+12:08:2023-01:54:10: MESSAGE : records found
+12:08:2023-01:54:10: MESSAGE :file iteration time
+12:08:2023-01:54:11: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-01:54:11: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-01:54:11: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-01:54:11: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-01:54:11: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-01:54:13: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-01:58:32
+
+12:08:2023-01:58:32: MESSAGE :______SNAKE GAME_______
+12:08:2023-01:58:32: MESSAGE : score file found
+12:08:2023-01:58:32: MESSAGE :file iteration time
+12:08:2023-01:58:32: MESSAGE :getting high score :23
+12:08:2023-01:58:32: MESSAGE : records found
+12:08:2023-01:58:32: MESSAGE :file iteration time
+12:08:2023-01:58:33: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-01:58:33: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-01:58:33: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-01:58:33: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-01:58:33: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-01:58:35: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-02:00:50
+
+12:08:2023-02:00:50: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:00:50: MESSAGE : score file found
+12:08:2023-02:00:50: MESSAGE :file iteration time
+12:08:2023-02:00:50: MESSAGE :getting high score :23
+12:08:2023-02:00:50: MESSAGE : records found
+12:08:2023-02:00:50: MESSAGE :file iteration time
+12:08:2023-02:00:50: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:00:50: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:00:50: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:00:50: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:00:50: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:01:02: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-02:01:21
+
+12:08:2023-02:01:21: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:01:21: MESSAGE : score file found
+12:08:2023-02:01:21: MESSAGE :file iteration time
+12:08:2023-02:01:21: MESSAGE :getting high score :23
+12:08:2023-02:01:21: MESSAGE : records found
+12:08:2023-02:01:21: MESSAGE :file iteration time
+12:08:2023-02:01:21: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:01:21: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:01:21: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:01:21: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:01:21: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:01:23: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-02:01:29
+
+12:08:2023-02:01:29: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:01:29: MESSAGE : score file found
+12:08:2023-02:01:29: MESSAGE :file iteration time
+12:08:2023-02:01:29: MESSAGE :getting high score :23
+12:08:2023-02:01:29: MESSAGE : records found
+12:08:2023-02:01:30: MESSAGE :file iteration time
+12:08:2023-02:01:30: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:01:30: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:01:30: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:01:30: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:01:30: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:01:34: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-02:01:41
+
+12:08:2023-02:01:41: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:01:41: MESSAGE : score file found
+12:08:2023-02:01:41: MESSAGE :file iteration time
+12:08:2023-02:01:41: MESSAGE :getting high score :23
+12:08:2023-02:01:41: MESSAGE : records found
+12:08:2023-02:01:41: MESSAGE :file iteration time
+12:08:2023-02:01:41: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:01:41: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:01:41: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:01:41: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:01:41: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:01:45: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-02:02:14
+
+12:08:2023-02:02:14: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:02:14: MESSAGE : score file found
+12:08:2023-02:02:14: MESSAGE :file iteration time
+12:08:2023-02:02:14: MESSAGE :getting high score :23
+12:08:2023-02:02:14: MESSAGE : records found
+12:08:2023-02:02:14: MESSAGE :file iteration time
+12:08:2023-02:02:14: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:02:14: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:02:14: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:02:14: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:02:14: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:03:45: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-02:04:42
+
+12:08:2023-02:04:42: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:04:42: MESSAGE : score file found
+12:08:2023-02:04:42: MESSAGE :file iteration time
+12:08:2023-02:04:42: MESSAGE :getting high score :23
+12:08:2023-02:04:42: MESSAGE : records found
+12:08:2023-02:04:43: MESSAGE :file iteration time
+12:08:2023-02:04:43: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:04:43: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:04:43: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:04:43: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:04:43: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:04:58: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-02:05:20
+
+12:08:2023-02:05:20: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:05:20: MESSAGE : score file found
+12:08:2023-02:05:20: MESSAGE :file iteration time
+12:08:2023-02:05:20: MESSAGE :getting high score :23
+12:08:2023-02:05:20: MESSAGE : records found
+12:08:2023-02:05:20: MESSAGE :file iteration time
+12:08:2023-02:05:20: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:05:20: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:05:20: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:05:20: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:05:20: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:05:35: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-02:07:17
+
+12:08:2023-02:07:17: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:07:17: MESSAGE : score file found
+12:08:2023-02:07:17: MESSAGE :file iteration time
+12:08:2023-02:07:17: MESSAGE :getting high score :23
+12:08:2023-02:07:17: MESSAGE : records found
+12:08:2023-02:07:17: MESSAGE :file iteration time
+12:08:2023-02:07:17: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:07:17: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:07:17: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:07:17: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:07:17: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:07:58: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-02:09:32
+
+12:08:2023-02:09:32: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:09:32: MESSAGE : score file found
+12:08:2023-02:09:32: MESSAGE :file iteration time
+12:08:2023-02:09:32: MESSAGE :getting high score :23
+12:08:2023-02:09:32: MESSAGE : records found
+12:08:2023-02:09:32: MESSAGE :file iteration time
+12:08:2023-02:09:32: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:09:32: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:09:32: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:09:32: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:09:32: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:09:38: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-02:11:10
+
+12:08:2023-02:11:10: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:11:10: MESSAGE : score file found
+12:08:2023-02:11:10: MESSAGE :file iteration time
+12:08:2023-02:11:10: MESSAGE :getting high score :23
+12:08:2023-02:11:10: MESSAGE : records found
+12:08:2023-02:11:10: MESSAGE :file iteration time
+12:08:2023-02:11:11: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:11:11: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:11:11: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:11:11: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:11:11: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+
+........NEW SESSION STARTS ........12:08:2023-02:11:23
+
+12:08:2023-02:11:23: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:11:23: MESSAGE : score file found
+12:08:2023-02:11:24: MESSAGE :file iteration time
+12:08:2023-02:11:24: MESSAGE :getting high score :23
+12:08:2023-02:11:24: MESSAGE : records found
+12:08:2023-02:11:24: MESSAGE :file iteration time
+12:08:2023-02:11:24: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:11:24: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:11:24: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:11:24: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:11:24: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:12:04: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-02:13:54
+
+12:08:2023-02:13:54: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:13:54: MESSAGE : score file found
+12:08:2023-02:13:55: MESSAGE :file iteration time
+12:08:2023-02:13:55: MESSAGE :getting high score :23
+12:08:2023-02:13:55: MESSAGE : records found
+12:08:2023-02:13:55: MESSAGE :file iteration time
+12:08:2023-02:13:55: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:13:55: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:13:55: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:13:55: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:13:55: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:14:21: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-02:15:59
+
+12:08:2023-02:15:59: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:15:59: MESSAGE : score file found
+12:08:2023-02:15:59: MESSAGE :file iteration time
+12:08:2023-02:15:59: MESSAGE :getting high score :23
+12:08:2023-02:15:59: MESSAGE : records found
+12:08:2023-02:15:59: MESSAGE :file iteration time
+12:08:2023-02:15:59: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:15:59: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:15:59: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:15:59: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:15:59: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+
+........NEW SESSION STARTS ........12:08:2023-02:16:25
+
+12:08:2023-02:16:25: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:16:25: MESSAGE : score file found
+12:08:2023-02:16:25: MESSAGE :file iteration time
+12:08:2023-02:16:25: MESSAGE :getting high score :23
+12:08:2023-02:16:25: MESSAGE : records found
+12:08:2023-02:16:25: MESSAGE :file iteration time
+12:08:2023-02:16:25: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:16:25: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:16:25: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:16:25: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:16:25: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:16:36: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-02:17:23
+
+12:08:2023-02:17:23: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:17:23: MESSAGE : score file found
+12:08:2023-02:17:23: MESSAGE :file iteration time
+12:08:2023-02:17:23: MESSAGE :getting high score :23
+12:08:2023-02:17:23: MESSAGE : records found
+12:08:2023-02:17:23: MESSAGE :file iteration time
+12:08:2023-02:17:23: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:17:23: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:17:23: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:17:23: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:17:23: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:17:35: MESSAGE :generating new game
+12:08:2023-02:17:35: MESSAGE :game resumed
+12:08:2023-02:17:35: MESSAGE :panel setup done ....
+12:08:2023-02:17:35: MESSAGE :gameover status : false
+12:08:2023-02:17:35: MESSAGE :snake position auto update while not moving ....
+12:08:2023-02:17:35: MESSAGE :gems manager starts adding gems....
+12:08:2023-02:17:35: MESSAGE :current game over status : false
+12:08:2023-02:17:35: MESSAGE :game loop starts
+12:08:2023-02:17:35: MESSAGE :next calling generate new game 
+12:08:2023-02:17:36: MESSAGE :frame : 119 : update : 199
+
+........NEW SESSION STARTS ........12:08:2023-02:17:40
+
+12:08:2023-02:17:40: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:17:40: MESSAGE : score file found
+12:08:2023-02:17:40: MESSAGE :file iteration time
+12:08:2023-02:17:40: MESSAGE :getting high score :23
+12:08:2023-02:17:40: MESSAGE : records found
+12:08:2023-02:17:40: MESSAGE :file iteration time
+12:08:2023-02:17:40: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:17:40: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:17:40: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:17:40: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:17:40: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:18:11: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-02:18:27
+
+12:08:2023-02:18:27: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:18:27: MESSAGE : score file found
+12:08:2023-02:18:28: MESSAGE :file iteration time
+12:08:2023-02:18:28: MESSAGE :getting high score :23
+12:08:2023-02:18:28: MESSAGE : records found
+12:08:2023-02:18:28: MESSAGE :file iteration time
+12:08:2023-02:18:28: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:18:28: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:18:28: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:18:28: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:18:28: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:18:34: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-02:19:03
+
+12:08:2023-02:19:03: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:19:03: MESSAGE : score file found
+12:08:2023-02:19:03: MESSAGE :file iteration time
+12:08:2023-02:19:03: MESSAGE :getting high score :23
+12:08:2023-02:19:03: MESSAGE : records found
+12:08:2023-02:19:03: MESSAGE :file iteration time
+12:08:2023-02:19:03: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:19:03: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:19:03: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:19:03: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:19:03: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:19:14: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-02:19:53
+
+12:08:2023-02:19:53: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:19:53: MESSAGE : score file found
+12:08:2023-02:19:53: MESSAGE :file iteration time
+12:08:2023-02:19:53: MESSAGE :getting high score :23
+12:08:2023-02:19:53: MESSAGE : records found
+12:08:2023-02:19:54: MESSAGE :file iteration time
+12:08:2023-02:19:54: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:19:54: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:19:54: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:19:54: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:19:54: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:20:14: MESSAGE :generating new game
+12:08:2023-02:20:14: MESSAGE :game resumed
+12:08:2023-02:20:15: MESSAGE :panel setup done ....
+12:08:2023-02:20:15: MESSAGE :gameover status : false
+12:08:2023-02:20:15: MESSAGE :snake position auto update while not moving ....
+12:08:2023-02:20:15: MESSAGE :gems manager starts adding gems....
+12:08:2023-02:20:15: MESSAGE :current game over status : false
+12:08:2023-02:20:15: MESSAGE :game loop starts
+12:08:2023-02:20:15: MESSAGE :next calling generate new game 
+12:08:2023-02:20:16: MESSAGE :frame : 120 : update : 199
+12:08:2023-02:20:17: MESSAGE :frame : 120 : update : 200
+
+........NEW SESSION STARTS ........12:08:2023-02:20:31
+
+12:08:2023-02:20:31: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:20:31: MESSAGE : score file found
+12:08:2023-02:20:31: MESSAGE :file iteration time
+12:08:2023-02:20:31: MESSAGE :getting high score :23
+12:08:2023-02:20:31: MESSAGE : records found
+12:08:2023-02:20:31: MESSAGE :file iteration time
+12:08:2023-02:20:31: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:20:31: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:20:31: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:20:31: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:20:31: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:21:27: MESSAGE :generating new game
+12:08:2023-02:21:27: MESSAGE :game resumed
+12:08:2023-02:21:27: MESSAGE :panel setup done ....
+12:08:2023-02:21:27: MESSAGE :gameover status : false
+12:08:2023-02:21:27: MESSAGE :snake position auto update while not moving ....
+12:08:2023-02:21:27: MESSAGE :gems manager starts adding gems....
+12:08:2023-02:21:27: MESSAGE :current game over status : false
+12:08:2023-02:21:27: MESSAGE :game loop starts
+12:08:2023-02:21:27: MESSAGE :next calling generate new game 
+12:08:2023-02:21:28: MESSAGE :frame : 119 : update : 199
+12:08:2023-02:21:29: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:21:30: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:21:31: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:21:32: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:21:33: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:21:34: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:21:35: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:21:36: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:21:37: MESSAGE :frame : 121 : update : 200
+12:08:2023-02:21:38: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:21:39: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:21:40: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:21:41: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:21:41: MESSAGE : set high score 
+12:08:2023-02:21:41: MESSAGE : score file found
+12:08:2023-02:21:41: MESSAGE :setting records 
+12:08:2023-02:21:41: MESSAGE : records file found
+12:08:2023-02:21:41: MESSAGE :game over
+12:08:2023-02:21:41: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-02:21:41: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:21:41: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:21:41: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:21:41: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:21:41: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:21:41: MESSAGE :gameOver status to run next iteration : true
+12:08:2023-02:21:53: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-02:24:13
+
+12:08:2023-02:24:13: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:24:13: MESSAGE : score file found
+12:08:2023-02:24:13: MESSAGE :file iteration time
+12:08:2023-02:24:13: MESSAGE :getting high score :23
+12:08:2023-02:24:13: MESSAGE : records found
+12:08:2023-02:24:13: MESSAGE :file iteration time
+12:08:2023-02:24:13: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-02:24:13: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:24:13: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:24:13: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:24:13: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:24:13: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:24:16: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-02:24:26
+
+12:08:2023-02:24:26: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:24:26: MESSAGE : score file found
+12:08:2023-02:24:26: MESSAGE :file iteration time
+12:08:2023-02:24:26: MESSAGE :getting high score :23
+12:08:2023-02:24:26: MESSAGE : records found
+12:08:2023-02:24:26: MESSAGE :file iteration time
+12:08:2023-02:24:27: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-02:24:27: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:24:27: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:24:27: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:24:27: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:24:27: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:24:29: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-02:24:41
+
+12:08:2023-02:24:41: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:24:41: MESSAGE : score file found
+12:08:2023-02:24:41: MESSAGE :file iteration time
+12:08:2023-02:24:41: MESSAGE :getting high score :23
+12:08:2023-02:24:41: MESSAGE : records found
+12:08:2023-02:24:41: MESSAGE :file iteration time
+12:08:2023-02:24:42: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-02:24:42: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:24:42: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:24:42: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:24:42: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:24:42: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:24:49: MESSAGE :generating new game
+12:08:2023-02:24:49: MESSAGE :game resumed
+12:08:2023-02:24:49: MESSAGE :panel setup done ....
+12:08:2023-02:24:49: MESSAGE :gameover status : false
+12:08:2023-02:24:49: MESSAGE :snake position auto update while not moving ....
+12:08:2023-02:24:49: MESSAGE :gems manager starts adding gems....
+12:08:2023-02:24:49: MESSAGE :current game over status : false
+12:08:2023-02:24:49: MESSAGE :game loop starts
+12:08:2023-02:24:49: MESSAGE :next calling generate new game 
+12:08:2023-02:24:50: MESSAGE :frame : 118 : update : 199
+12:08:2023-02:24:51: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:24:52: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:24:53: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:24:54: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:24:55: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:24:56: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:24:57: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:24:58: MESSAGE :frame : 121 : update : 200
+12:08:2023-02:24:59: MESSAGE :frame : 119 : update : 200
+12:08:2023-02:25:00: MESSAGE :frame : 121 : update : 200
+12:08:2023-02:25:01: MESSAGE :frame : 119 : update : 200
+12:08:2023-02:25:02: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:25:03: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:25:04: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:25:05: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:25:06: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:25:07: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:25:08: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:25:09: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:25:10: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:25:11: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:25:12: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:25:13: MESSAGE : set high score 
+12:08:2023-02:25:13: MESSAGE : score file found
+12:08:2023-02:25:13: MESSAGE :setting records 
+12:08:2023-02:25:13: MESSAGE : records file found
+12:08:2023-02:25:13: MESSAGE :game over
+12:08:2023-02:25:13: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-02:25:13: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-02:25:13: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:25:13: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:25:13: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:25:13: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:25:13: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:25:13: MESSAGE :gameOver status to run next iteration : true
+12:08:2023-02:25:17: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-02:25:58
+
+12:08:2023-02:25:58: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:25:58: MESSAGE : score file found
+12:08:2023-02:25:58: MESSAGE :file iteration time
+12:08:2023-02:25:58: MESSAGE :getting high score :23
+12:08:2023-02:25:58: MESSAGE : records found
+12:08:2023-02:25:58: MESSAGE :file iteration time
+12:08:2023-02:25:59: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-02:25:59: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-02:25:59: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:25:59: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:25:59: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:25:59: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:25:59: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:26:07: MESSAGE :generating new game
+12:08:2023-02:26:07: MESSAGE :game resumed
+12:08:2023-02:26:07: MESSAGE :panel setup done ....
+12:08:2023-02:26:07: MESSAGE :gameover status : false
+12:08:2023-02:26:07: MESSAGE :snake position auto update while not moving ....
+12:08:2023-02:26:07: MESSAGE :gems manager starts adding gems....
+12:08:2023-02:26:07: MESSAGE :current game over status : false
+12:08:2023-02:26:07: MESSAGE :game loop starts
+12:08:2023-02:26:07: MESSAGE :next calling generate new game 
+12:08:2023-02:26:08: MESSAGE :frame : 119 : update : 199
+12:08:2023-02:26:09: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:26:10: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:26:11: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:26:12: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:26:13: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:26:14: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:26:15: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:26:16: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:26:17: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:26:17: MESSAGE : set high score 
+12:08:2023-02:26:17: MESSAGE : score file found
+12:08:2023-02:26:17: MESSAGE :setting records 
+12:08:2023-02:26:17: MESSAGE : records file found
+12:08:2023-02:26:18: MESSAGE :game over
+12:08:2023-02:26:18: MESSAGE : 12/08/2023 02:26:17 : 3 
+
+12:08:2023-02:26:18: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-02:26:18: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-02:26:18: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:26:18: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:26:18: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:26:18: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:26:18: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:26:18: MESSAGE :gameOver status to run next iteration : true
+12:08:2023-02:26:27: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-02:27:12
+
+12:08:2023-02:27:12: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:27:12: MESSAGE : score file found
+12:08:2023-02:27:12: MESSAGE :file iteration time
+12:08:2023-02:27:12: MESSAGE :getting high score :23
+12:08:2023-02:27:12: MESSAGE : records found
+12:08:2023-02:27:12: MESSAGE :file iteration time
+12:08:2023-02:27:13: MESSAGE : 12/08/2023 02:26:17 : 3 
+
+12:08:2023-02:27:13: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-02:27:13: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-02:27:13: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:27:13: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:27:13: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:27:13: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:27:13: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:27:16: MESSAGE :generating new game
+12:08:2023-02:27:16: MESSAGE :game resumed
+12:08:2023-02:27:16: MESSAGE :panel setup done ....
+
+........NEW SESSION STARTS ........12:08:2023-02:29:18
+
+12:08:2023-02:29:18: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:29:18: MESSAGE : score file found
+12:08:2023-02:29:18: MESSAGE :file iteration time
+12:08:2023-02:29:18: MESSAGE :getting high score :23
+12:08:2023-02:29:18: MESSAGE : records found
+12:08:2023-02:29:19: MESSAGE :file iteration time
+12:08:2023-02:29:19: MESSAGE : 12/08/2023 02:26:17 : 3 
+
+12:08:2023-02:29:19: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-02:29:19: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-02:29:19: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:29:19: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:29:19: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:29:19: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:29:19: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:29:23: MESSAGE :generating new game
+12:08:2023-02:29:23: MESSAGE :game resumed
+12:08:2023-02:29:23: MESSAGE :panel setup done ....
+
+........NEW SESSION STARTS ........12:08:2023-02:29:40
+
+12:08:2023-02:29:40: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:29:40: MESSAGE : score file found
+12:08:2023-02:29:40: MESSAGE :file iteration time
+12:08:2023-02:29:40: MESSAGE :getting high score :23
+12:08:2023-02:29:40: MESSAGE : records found
+12:08:2023-02:29:40: MESSAGE :file iteration time
+12:08:2023-02:29:41: MESSAGE : 12/08/2023 02:26:17 : 3 
+
+12:08:2023-02:29:41: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-02:29:41: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-02:29:41: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:29:41: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:29:41: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:29:41: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:29:41: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:29:44: MESSAGE :generating new game
+12:08:2023-02:29:45: MESSAGE :game resumed
+12:08:2023-02:29:45: MESSAGE :panel setup done ....
+12:08:2023-02:29:45: MESSAGE :gameover status : false
+12:08:2023-02:29:45: MESSAGE :gems manager starts adding gems....
+12:08:2023-02:29:45: MESSAGE :snake position auto update while not moving ....
+12:08:2023-02:29:45: MESSAGE :current game over status : false
+12:08:2023-02:29:45: MESSAGE :game loop starts
+12:08:2023-02:29:45: MESSAGE :next calling generate new game 
+12:08:2023-02:29:46: MESSAGE :frame : 119 : update : 199
+12:08:2023-02:29:47: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:29:48: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:29:49: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:29:50: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:29:51: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:29:52: MESSAGE :frame : 120 : update : 200
+
+........NEW SESSION STARTS ........12:08:2023-02:31:03
+
+12:08:2023-02:31:03: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:31:03: MESSAGE : score file found
+12:08:2023-02:31:03: MESSAGE :file iteration time
+12:08:2023-02:31:03: MESSAGE :getting high score :23
+12:08:2023-02:31:03: MESSAGE : records found
+12:08:2023-02:31:03: MESSAGE :file iteration time
+12:08:2023-02:31:03: MESSAGE : 12/08/2023 02:26:17 : 3 
+
+12:08:2023-02:31:03: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-02:31:03: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-02:31:03: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:31:03: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:31:03: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:31:03: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:31:03: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:31:06: MESSAGE :generating new game
+12:08:2023-02:31:06: MESSAGE :game resumed
+12:08:2023-02:31:06: MESSAGE :panel setup done ....
+12:08:2023-02:31:06: MESSAGE :gameover status : false
+12:08:2023-02:31:06: MESSAGE :snake position auto update while not moving ....
+12:08:2023-02:31:06: MESSAGE :gems manager starts adding gems....
+12:08:2023-02:31:06: MESSAGE :current game over status : false
+12:08:2023-02:31:06: MESSAGE :game loop starts
+12:08:2023-02:31:06: MESSAGE :next calling generate new game 
+12:08:2023-02:31:07: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:31:08: MESSAGE :frame : 120 : update : 199
+12:08:2023-02:31:09: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:31:10: MESSAGE :frame : 0 : update : 0
+12:08:2023-02:31:11: MESSAGE :frame : 120 : update : 199
+12:08:2023-02:31:12: MESSAGE :frame : 119 : update : 200
+12:08:2023-02:31:13: MESSAGE :frame : 121 : update : 201
+12:08:2023-02:31:14: MESSAGE :frame : 119 : update : 199
+12:08:2023-02:31:15: MESSAGE :frame : 0 : update : 0
+12:08:2023-02:31:16: MESSAGE :frame : 121 : update : 200
+12:08:2023-02:31:17: MESSAGE :frame : 119 : update : 200
+12:08:2023-02:31:18: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:31:19: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:31:20: MESSAGE :frame : 121 : update : 200
+12:08:2023-02:31:21: MESSAGE :frame : 0 : update : 0
+12:08:2023-02:31:22: MESSAGE :frame : 119 : update : 200
+12:08:2023-02:31:23: MESSAGE :frame : 121 : update : 200
+12:08:2023-02:31:24: MESSAGE :frame : 119 : update : 200
+12:08:2023-02:31:25: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:31:26: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:31:27: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:31:28: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:31:29: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:31:30: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:31:31: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:31:32: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:31:33: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:31:34: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:31:35: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:31:36: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:31:37: MESSAGE :frame : 120 : update : 199
+12:08:2023-02:31:38: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:31:39: MESSAGE :self bite
+12:08:2023-02:31:39: MESSAGE : set high score 
+12:08:2023-02:31:39: MESSAGE : score file found
+12:08:2023-02:31:39: MESSAGE :setting records 
+12:08:2023-02:31:39: MESSAGE : records file found
+12:08:2023-02:31:39: MESSAGE :game over
+12:08:2023-02:31:39: MESSAGE : 12/08/2023 02:31:39 : 10 
+
+12:08:2023-02:31:39: MESSAGE : 12/08/2023 02:26:17 : 3 
+
+12:08:2023-02:31:39: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-02:31:39: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-02:31:39: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:31:39: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:31:39: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:31:39: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:31:39: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:31:39: MESSAGE :gameOver status to run next iteration : true
+12:08:2023-02:32:04: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-02:45:27
+
+12:08:2023-02:45:27: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:45:27: MESSAGE : score file found
+12:08:2023-02:45:27: MESSAGE :file iteration time
+12:08:2023-02:45:27: MESSAGE :getting high score :23
+12:08:2023-02:45:27: MESSAGE : records found
+12:08:2023-02:45:28: MESSAGE :file iteration time
+12:08:2023-02:45:28: MESSAGE : 12/08/2023 02:31:39 : 10 
+
+12:08:2023-02:45:28: MESSAGE : 12/08/2023 02:26:17 : 3 
+
+12:08:2023-02:45:28: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-02:45:28: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-02:45:28: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:45:28: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:45:28: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:45:28: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:45:28: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:45:49: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-02:45:57
+
+12:08:2023-02:45:57: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:45:57: MESSAGE : score file found
+12:08:2023-02:45:57: MESSAGE :file iteration time
+12:08:2023-02:45:57: MESSAGE :getting high score :23
+12:08:2023-02:45:57: MESSAGE : records found
+12:08:2023-02:45:57: MESSAGE :file iteration time
+12:08:2023-02:45:58: MESSAGE : 12/08/2023 02:31:39 : 10 
+
+12:08:2023-02:45:58: MESSAGE : 12/08/2023 02:26:17 : 3 
+
+12:08:2023-02:45:58: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-02:45:58: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-02:45:58: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:45:58: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:45:58: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:45:58: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:45:58: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:46:01: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-02:46:09
+
+12:08:2023-02:46:09: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:46:09: MESSAGE : score file found
+12:08:2023-02:46:09: MESSAGE :file iteration time
+12:08:2023-02:46:09: MESSAGE :getting high score :23
+12:08:2023-02:46:09: MESSAGE : records found
+12:08:2023-02:46:09: MESSAGE :file iteration time
+12:08:2023-02:46:10: MESSAGE : 12/08/2023 02:31:39 : 10 
+
+12:08:2023-02:46:10: MESSAGE : 12/08/2023 02:26:17 : 3 
+
+12:08:2023-02:46:10: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-02:46:10: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-02:46:10: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:46:10: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:46:10: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:46:10: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:46:10: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:46:14: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-02:46:31
+
+12:08:2023-02:46:31: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:46:31: MESSAGE : score file found
+12:08:2023-02:46:31: MESSAGE :file iteration time
+12:08:2023-02:46:31: MESSAGE :getting high score :23
+12:08:2023-02:46:31: MESSAGE : records found
+12:08:2023-02:46:31: MESSAGE :file iteration time
+12:08:2023-02:46:31: MESSAGE : 12/08/2023 02:31:39 : 10 
+
+12:08:2023-02:46:31: MESSAGE : 12/08/2023 02:26:17 : 3 
+
+12:08:2023-02:46:31: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-02:46:31: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-02:46:31: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:46:31: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:46:31: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:46:31: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:46:31: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:46:35: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-02:46:49
+
+12:08:2023-02:46:49: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:46:49: MESSAGE : score file found
+12:08:2023-02:46:49: MESSAGE :file iteration time
+12:08:2023-02:46:49: MESSAGE :getting high score :23
+12:08:2023-02:46:49: MESSAGE : records found
+12:08:2023-02:46:49: MESSAGE :file iteration time
+12:08:2023-02:46:50: MESSAGE : 12/08/2023 02:31:39 : 10 
+
+12:08:2023-02:46:50: MESSAGE : 12/08/2023 02:26:17 : 3 
+
+12:08:2023-02:46:50: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-02:46:50: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-02:46:50: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:46:50: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:46:50: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:46:50: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:46:50: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:46:53: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-02:46:59
+
+12:08:2023-02:46:59: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:46:59: MESSAGE : score file found
+12:08:2023-02:47:00: MESSAGE :file iteration time
+12:08:2023-02:47:00: MESSAGE :getting high score :23
+12:08:2023-02:47:00: MESSAGE : records found
+12:08:2023-02:47:00: MESSAGE :file iteration time
+12:08:2023-02:47:00: MESSAGE : 12/08/2023 02:31:39 : 10 
+
+12:08:2023-02:47:00: MESSAGE : 12/08/2023 02:26:17 : 3 
+
+12:08:2023-02:47:00: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-02:47:00: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-02:47:00: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:47:00: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:47:00: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:47:00: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:47:00: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:47:11: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-02:49:55
+
+12:08:2023-02:49:55: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:49:55: MESSAGE : score file found
+12:08:2023-02:49:55: MESSAGE :file iteration time
+12:08:2023-02:49:55: MESSAGE :getting high score :23
+12:08:2023-02:49:55: MESSAGE : records found
+12:08:2023-02:49:55: MESSAGE :file iteration time
+12:08:2023-02:49:56: MESSAGE : 12/08/2023 02:31:39 : 10 
+
+12:08:2023-02:49:56: MESSAGE : 12/08/2023 02:26:17 : 3 
+
+12:08:2023-02:49:56: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-02:49:56: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-02:49:56: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:49:56: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:49:56: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:49:56: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:49:56: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:50:11: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-02:50:22
+
+12:08:2023-02:50:22: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:50:22: MESSAGE : score file found
+12:08:2023-02:50:22: MESSAGE :file iteration time
+12:08:2023-02:50:22: MESSAGE :getting high score :23
+12:08:2023-02:50:22: MESSAGE : records found
+12:08:2023-02:50:22: MESSAGE :file iteration time
+12:08:2023-02:50:22: MESSAGE : 12/08/2023 02:31:39 : 10 
+
+12:08:2023-02:50:22: MESSAGE : 12/08/2023 02:26:17 : 3 
+
+12:08:2023-02:50:22: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-02:50:22: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-02:50:22: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:50:22: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:50:22: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:50:22: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:50:22: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:50:25: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-02:50:29
+
+12:08:2023-02:50:29: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:50:29: MESSAGE : score file found
+12:08:2023-02:50:29: MESSAGE :file iteration time
+12:08:2023-02:50:29: MESSAGE :getting high score :23
+12:08:2023-02:50:29: MESSAGE : records found
+12:08:2023-02:50:29: MESSAGE :file iteration time
+12:08:2023-02:50:30: MESSAGE : 12/08/2023 02:31:39 : 10 
+
+12:08:2023-02:50:30: MESSAGE : 12/08/2023 02:26:17 : 3 
+
+12:08:2023-02:50:30: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-02:50:30: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-02:50:30: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:50:30: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:50:30: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:50:30: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:50:30: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:50:35: MESSAGE :generating new game
+12:08:2023-02:50:35: MESSAGE :game resumed
+12:08:2023-02:50:35: MESSAGE :panel setup done ....
+12:08:2023-02:50:35: MESSAGE :gameover status : false
+12:08:2023-02:50:35: MESSAGE :snake position auto update while not moving ....
+12:08:2023-02:50:35: MESSAGE :gems manager starts adding gems....
+12:08:2023-02:50:35: MESSAGE :current game over status : false
+12:08:2023-02:50:35: MESSAGE :game loop starts
+12:08:2023-02:50:35: MESSAGE :next calling generate new game 
+12:08:2023-02:50:36: MESSAGE :frame : 120 : update : 199
+12:08:2023-02:50:37: MESSAGE :frame : 119 : update : 200
+12:08:2023-02:50:38: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:50:39: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:50:40: MESSAGE :frame : 121 : update : 200
+12:08:2023-02:50:41: MESSAGE :frame : 119 : update : 200
+12:08:2023-02:50:42: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:50:43: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:50:44: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:50:45: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:50:46: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:50:47: MESSAGE :frame : 120 : update : 200
+12:08:2023-02:50:48: MESSAGE :frame : 121 : update : 201
+12:08:2023-02:50:49: MESSAGE :frame : 120 : update : 199
+12:08:2023-02:50:49: MESSAGE : set high score 
+12:08:2023-02:50:49: MESSAGE : score file found
+12:08:2023-02:50:49: MESSAGE :setting records 
+12:08:2023-02:50:49: MESSAGE : records file found
+12:08:2023-02:50:50: MESSAGE :game over
+12:08:2023-02:50:50: MESSAGE : 12/08/2023 02:50:49 : 5 
+
+12:08:2023-02:50:50: MESSAGE : 12/08/2023 02:31:39 : 10 
+
+12:08:2023-02:50:50: MESSAGE : 12/08/2023 02:26:17 : 3 
+
+12:08:2023-02:50:50: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-02:50:50: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-02:50:50: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:50:50: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:50:50: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:50:50: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:50:50: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:50:50: MESSAGE :gameOver status to run next iteration : true
+12:08:2023-02:51:08: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-02:53:42
+
+12:08:2023-02:53:42: MESSAGE :______SNAKE GAME_______
+12:08:2023-02:53:42: MESSAGE : score file found
+12:08:2023-02:53:43: MESSAGE :file iteration time
+12:08:2023-02:53:43: MESSAGE :getting high score :23
+12:08:2023-02:53:43: MESSAGE : records found
+12:08:2023-02:53:43: MESSAGE :file iteration time
+12:08:2023-02:53:43: MESSAGE : 12/08/2023 02:50:49 : 5 
+
+12:08:2023-02:53:43: MESSAGE : 12/08/2023 02:31:39 : 10 
+
+12:08:2023-02:53:43: MESSAGE : 12/08/2023 02:26:17 : 3 
+
+12:08:2023-02:53:43: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-02:53:43: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-02:53:43: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-02:53:43: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-02:53:43: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-02:53:43: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-02:53:43: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-02:53:45: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-19:25:19
+
+12:08:2023-19:25:19: MESSAGE :______SNAKE GAME_______
+12:08:2023-19:25:19: MESSAGE : score file found
+12:08:2023-19:25:19: MESSAGE :file iteration time
+12:08:2023-19:25:19: MESSAGE :getting high score :23
+12:08:2023-19:25:19: MESSAGE : records found
+12:08:2023-19:25:19: MESSAGE :file iteration time
+12:08:2023-19:25:19: MESSAGE : 12/08/2023 02:50:49 : 5 
+
+12:08:2023-19:25:19: MESSAGE : 12/08/2023 02:31:39 : 10 
+
+12:08:2023-19:25:19: MESSAGE : 12/08/2023 02:26:17 : 3 
+
+12:08:2023-19:25:19: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-19:25:19: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-19:25:19: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-19:25:19: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-19:25:19: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-19:25:19: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-19:25:19: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-19:25:22: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-19:25:31
+
+12:08:2023-19:25:31: MESSAGE :______SNAKE GAME_______
+12:08:2023-19:25:31: MESSAGE : score file found
+12:08:2023-19:25:31: MESSAGE :file iteration time
+12:08:2023-19:25:31: MESSAGE :getting high score :23
+12:08:2023-19:25:31: MESSAGE : records found
+12:08:2023-19:25:31: MESSAGE :file iteration time
+12:08:2023-19:25:31: MESSAGE : 12/08/2023 02:50:49 : 5 
+
+12:08:2023-19:25:31: MESSAGE : 12/08/2023 02:31:39 : 10 
+
+12:08:2023-19:25:31: MESSAGE : 12/08/2023 02:26:17 : 3 
+
+12:08:2023-19:25:31: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-19:25:31: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-19:25:31: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-19:25:31: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-19:25:31: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-19:25:31: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-19:25:31: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-19:25:33: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-19:32:00
+
+12:08:2023-19:32:00: MESSAGE :______SNAKE GAME_______
+12:08:2023-19:32:00: MESSAGE : score file found
+12:08:2023-19:32:00: MESSAGE :file iteration time
+12:08:2023-19:32:00: MESSAGE :getting high score :23
+12:08:2023-19:32:00: MESSAGE : records found
+12:08:2023-19:32:00: MESSAGE :file iteration time
+12:08:2023-19:32:00: MESSAGE : 12/08/2023 02:50:49 : 5 
+
+12:08:2023-19:32:00: MESSAGE : 12/08/2023 02:31:39 : 10 
+
+12:08:2023-19:32:00: MESSAGE : 12/08/2023 02:26:17 : 3 
+
+12:08:2023-19:32:00: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-19:32:00: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-19:32:00: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-19:32:00: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-19:32:00: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-19:32:00: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-19:32:00: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-19:32:07: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-19:34:31
+
+12:08:2023-19:34:31: MESSAGE :______SNAKE GAME_______
+12:08:2023-19:34:31: MESSAGE : score file found
+12:08:2023-19:34:31: MESSAGE :file iteration time
+12:08:2023-19:34:31: MESSAGE :getting high score :23
+12:08:2023-19:34:31: MESSAGE : records found
+12:08:2023-19:34:31: MESSAGE :file iteration time
+12:08:2023-19:34:31: MESSAGE : 12/08/2023 02:50:49 : 5 
+
+12:08:2023-19:34:31: MESSAGE : 12/08/2023 02:31:39 : 10 
+
+12:08:2023-19:34:31: MESSAGE : 12/08/2023 02:26:17 : 3 
+
+12:08:2023-19:34:31: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-19:34:31: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-19:34:31: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-19:34:31: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-19:34:31: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-19:34:31: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-19:34:31: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-19:34:37: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-19:35:39
+
+12:08:2023-19:35:39: MESSAGE :______SNAKE GAME_______
+12:08:2023-19:35:39: MESSAGE : score file found
+12:08:2023-19:35:39: MESSAGE :file iteration time
+12:08:2023-19:35:39: MESSAGE :getting high score :23
+12:08:2023-19:35:39: MESSAGE : records found
+12:08:2023-19:35:39: MESSAGE :file iteration time
+12:08:2023-19:35:39: MESSAGE : 12/08/2023 02:50:49 : 5 
+
+12:08:2023-19:35:39: MESSAGE : 12/08/2023 02:31:39 : 10 
+
+12:08:2023-19:35:39: MESSAGE : 12/08/2023 02:26:17 : 3 
+
+12:08:2023-19:35:39: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-19:35:39: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-19:35:39: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-19:35:39: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-19:35:39: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-19:35:39: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-19:35:39: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-19:35:55: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-19:35:57
+
+12:08:2023-19:35:57: MESSAGE :______SNAKE GAME_______
+12:08:2023-19:35:57: MESSAGE : score file found
+12:08:2023-19:35:57: MESSAGE :file iteration time
+12:08:2023-19:35:57: MESSAGE :getting high score :23
+12:08:2023-19:35:57: MESSAGE : records found
+12:08:2023-19:35:57: MESSAGE :file iteration time
+12:08:2023-19:35:58: MESSAGE : 12/08/2023 02:50:49 : 5 
+
+12:08:2023-19:35:58: MESSAGE : 12/08/2023 02:31:39 : 10 
+
+12:08:2023-19:35:58: MESSAGE : 12/08/2023 02:26:17 : 3 
+
+12:08:2023-19:35:58: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-19:35:58: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-19:35:58: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-19:35:58: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-19:35:58: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-19:35:58: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-19:35:58: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-19:36:30: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-19:36:35
+
+12:08:2023-19:36:35: MESSAGE :______SNAKE GAME_______
+12:08:2023-19:36:35: MESSAGE : score file found
+12:08:2023-19:36:35: MESSAGE :file iteration time
+12:08:2023-19:36:35: MESSAGE :getting high score :23
+12:08:2023-19:36:35: MESSAGE : records found
+12:08:2023-19:36:35: MESSAGE :file iteration time
+12:08:2023-19:36:35: MESSAGE : 12/08/2023 02:50:49 : 5 
+
+12:08:2023-19:36:35: MESSAGE : 12/08/2023 02:31:39 : 10 
+
+12:08:2023-19:36:35: MESSAGE : 12/08/2023 02:26:17 : 3 
+
+12:08:2023-19:36:35: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-19:36:35: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-19:36:35: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-19:36:35: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-19:36:35: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-19:36:35: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-19:36:35: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-19:36:38: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-19:39:58
+
+12:08:2023-19:39:58: MESSAGE :______SNAKE GAME_______
+12:08:2023-19:39:58: MESSAGE : score file found
+12:08:2023-19:39:58: MESSAGE :file iteration time
+12:08:2023-19:39:58: MESSAGE :getting high score :23
+12:08:2023-19:39:58: MESSAGE : records found
+12:08:2023-19:39:59: MESSAGE :file iteration time
+12:08:2023-19:39:59: MESSAGE : 12/08/2023 02:50:49 : 5 
+
+12:08:2023-19:39:59: MESSAGE : 12/08/2023 02:31:39 : 10 
+
+12:08:2023-19:39:59: MESSAGE : 12/08/2023 02:26:17 : 3 
+
+12:08:2023-19:39:59: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-19:39:59: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-19:39:59: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-19:39:59: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-19:39:59: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-19:39:59: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-19:39:59: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-19:40:07: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-19:40:40
+
+12:08:2023-19:40:40: MESSAGE :______SNAKE GAME_______
+12:08:2023-19:40:40: MESSAGE : score file found
+12:08:2023-19:40:40: MESSAGE :file iteration time
+12:08:2023-19:40:40: MESSAGE :getting high score :23
+12:08:2023-19:40:40: MESSAGE : records found
+12:08:2023-19:40:41: MESSAGE :file iteration time
+12:08:2023-19:40:41: MESSAGE : 12/08/2023 02:50:49 : 5 
+
+12:08:2023-19:40:41: MESSAGE : 12/08/2023 02:31:39 : 10 
+
+12:08:2023-19:40:41: MESSAGE : 12/08/2023 02:26:17 : 3 
+
+12:08:2023-19:40:41: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-19:40:41: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-19:40:41: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-19:40:41: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-19:40:41: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-19:40:41: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-19:40:41: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-19:40:43: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-19:41:57
+
+12:08:2023-19:41:57: MESSAGE :______SNAKE GAME_______
+12:08:2023-19:41:57: MESSAGE : score file found
+12:08:2023-19:41:57: MESSAGE :file iteration time
+12:08:2023-19:41:57: MESSAGE :getting high score :23
+12:08:2023-19:41:57: MESSAGE : records found
+12:08:2023-19:41:58: MESSAGE :file iteration time
+12:08:2023-19:41:58: MESSAGE : 12/08/2023 02:50:49 : 5 
+
+12:08:2023-19:41:58: MESSAGE : 12/08/2023 02:31:39 : 10 
+
+12:08:2023-19:41:58: MESSAGE : 12/08/2023 02:26:17 : 3 
+
+12:08:2023-19:41:58: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-19:41:58: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-19:41:58: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-19:41:58: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-19:41:58: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-19:41:58: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-19:41:58: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-19:42:03: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-19:42:05
+
+12:08:2023-19:42:05: MESSAGE :______SNAKE GAME_______
+12:08:2023-19:42:05: MESSAGE : score file found
+12:08:2023-19:42:05: MESSAGE :file iteration time
+12:08:2023-19:42:05: MESSAGE :getting high score :23
+12:08:2023-19:42:05: MESSAGE : records found
+12:08:2023-19:42:05: MESSAGE :file iteration time
+12:08:2023-19:42:05: MESSAGE : 12/08/2023 02:50:49 : 5 
+
+12:08:2023-19:42:05: MESSAGE : 12/08/2023 02:31:39 : 10 
+
+12:08:2023-19:42:05: MESSAGE : 12/08/2023 02:26:17 : 3 
+
+12:08:2023-19:42:05: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-19:42:05: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-19:42:05: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-19:42:05: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-19:42:05: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-19:42:05: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-19:42:05: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-19:42:26: MESSAGE :generating new game
+12:08:2023-19:42:26: MESSAGE :game resumed
+12:08:2023-19:42:26: MESSAGE :panel setup done ....
+12:08:2023-19:42:26: MESSAGE :gameover status : false
+12:08:2023-19:42:26: MESSAGE :gems manager starts adding gems....
+12:08:2023-19:42:26: MESSAGE :snake position auto update while not moving ....
+12:08:2023-19:42:26: MESSAGE :current game over status : false
+12:08:2023-19:42:26: MESSAGE :game loop starts
+12:08:2023-19:42:26: MESSAGE :next calling generate new game 
+12:08:2023-19:42:27: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:42:28: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:42:29: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:42:30: MESSAGE :frame : 120 : update : 199
+12:08:2023-19:42:31: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:42:32: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:42:33: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:42:33: MESSAGE :game paused
+12:08:2023-19:42:34: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:42:35: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:42:36: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:42:37: MESSAGE :frame : 119 : update : 200
+12:08:2023-19:42:38: MESSAGE :frame : 121 : update : 200
+12:08:2023-19:42:39: MESSAGE :frame : 119 : update : 200
+12:08:2023-19:42:40: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:42:41: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:42:42: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:42:43: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:42:44: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:42:45: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:42:46: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:42:47: MESSAGE :game resumed
+12:08:2023-19:42:47: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:42:48: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:42:49: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:42:50: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:42:51: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:42:52: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:42:53: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:42:54: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:42:55: MESSAGE :frame : 120 : update : 199
+12:08:2023-19:42:56: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:42:57: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:42:58: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:42:59: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:00: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:01: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:02: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:03: MESSAGE :frame : 121 : update : 200
+12:08:2023-19:43:04: MESSAGE :frame : 119 : update : 200
+12:08:2023-19:43:05: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:06: MESSAGE :frame : 121 : update : 200
+12:08:2023-19:43:07: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:08: MESSAGE :frame : 119 : update : 200
+12:08:2023-19:43:09: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:10: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:11: MESSAGE :frame : 0 : update : 0
+12:08:2023-19:43:12: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:13: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:14: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:15: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:16: MESSAGE :frame : 120 : update : 199
+12:08:2023-19:43:17: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:18: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:19: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:20: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:21: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:22: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:23: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:24: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:25: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:26: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:27: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:28: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:29: MESSAGE :frame : 120 : update : 199
+12:08:2023-19:43:30: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:31: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:32: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:33: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:34: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:35: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:36: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:37: MESSAGE :frame : 120 : update : 199
+12:08:2023-19:43:38: MESSAGE :frame : 120 : update : 201
+12:08:2023-19:43:39: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:40: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:41: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:42: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:43: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:44: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:45: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:46: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:47: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:48: MESSAGE :frame : 120 : update : 199
+12:08:2023-19:43:49: MESSAGE :frame : 0 : update : 0
+12:08:2023-19:43:50: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:51: MESSAGE :frame : 0 : update : 0
+12:08:2023-19:43:52: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:52: MESSAGE :game paused
+12:08:2023-19:43:53: MESSAGE :frame : 0 : update : 0
+12:08:2023-19:43:54: MESSAGE :frame : 0 : update : 0
+12:08:2023-19:43:55: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:56: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:57: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:57: MESSAGE :game resumed
+12:08:2023-19:43:58: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:43:59: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:44:00: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:44:01: MESSAGE :frame : 0 : update : 0
+12:08:2023-19:44:02: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:44:03: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:44:04: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:44:04: MESSAGE :self bite
+12:08:2023-19:44:04: MESSAGE :high score changed 
+12:08:2023-19:44:04: MESSAGE : set high score 
+12:08:2023-19:44:04: MESSAGE : score file found
+12:08:2023-19:44:04: MESSAGE :setting records 
+12:08:2023-19:44:04: MESSAGE : records file found
+12:08:2023-19:44:04: MESSAGE :game over
+12:08:2023-19:44:04: MESSAGE : 12/08/2023 19:44:04 : 41 
+
+12:08:2023-19:44:04: MESSAGE : 12/08/2023 02:50:49 : 5 
+
+12:08:2023-19:44:04: MESSAGE : 12/08/2023 02:31:39 : 10 
+
+12:08:2023-19:44:04: MESSAGE : 12/08/2023 02:26:17 : 3 
+
+12:08:2023-19:44:04: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-19:44:04: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-19:44:04: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-19:44:04: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-19:44:04: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-19:44:04: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-19:44:04: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-19:44:04: MESSAGE :gameOver status to run next iteration : true
+12:08:2023-19:44:16: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-19:44:20
+
+12:08:2023-19:44:20: MESSAGE :______SNAKE GAME_______
+12:08:2023-19:44:20: MESSAGE : score file found
+12:08:2023-19:44:20: MESSAGE :file iteration time
+12:08:2023-19:44:20: MESSAGE :getting high score :41
+12:08:2023-19:44:20: MESSAGE : records found
+12:08:2023-19:44:21: MESSAGE :file iteration time
+12:08:2023-19:44:21: MESSAGE : 12/08/2023 19:44:04 : 41 
+
+12:08:2023-19:44:21: MESSAGE : 12/08/2023 02:50:49 : 5 
+
+12:08:2023-19:44:21: MESSAGE : 12/08/2023 02:31:39 : 10 
+
+12:08:2023-19:44:21: MESSAGE : 12/08/2023 02:26:17 : 3 
+
+12:08:2023-19:44:21: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-19:44:21: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-19:44:21: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-19:44:21: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-19:44:21: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-19:44:21: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-19:44:21: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-19:44:46: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-19:45:17
+
+12:08:2023-19:45:17: MESSAGE :______SNAKE GAME_______
+12:08:2023-19:45:17: MESSAGE : score file found
+12:08:2023-19:45:18: MESSAGE :file iteration time
+12:08:2023-19:45:18: MESSAGE :getting high score :41
+12:08:2023-19:45:18: MESSAGE : records found
+12:08:2023-19:45:18: MESSAGE :file iteration time
+12:08:2023-19:45:18: MESSAGE : 12/08/2023 19:44:04 : 41 
+
+12:08:2023-19:45:18: MESSAGE : 12/08/2023 02:50:49 : 5 
+
+12:08:2023-19:45:18: MESSAGE : 12/08/2023 02:31:39 : 10 
+
+12:08:2023-19:45:18: MESSAGE : 12/08/2023 02:26:17 : 3 
+
+12:08:2023-19:45:18: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-19:45:18: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-19:45:18: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-19:45:18: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-19:45:18: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-19:45:18: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-19:45:18: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-19:45:21: MESSAGE :generating new game
+12:08:2023-19:45:21: MESSAGE :game resumed
+12:08:2023-19:45:21: MESSAGE :panel setup done ....
+12:08:2023-19:45:21: MESSAGE :gems manager starts adding gems....
+12:08:2023-19:45:21: MESSAGE :gameover status : false
+12:08:2023-19:45:21: MESSAGE :snake position auto update while not moving ....
+12:08:2023-19:45:21: MESSAGE :current game over status : false
+12:08:2023-19:45:21: MESSAGE :game loop starts
+12:08:2023-19:45:21: MESSAGE :next calling generate new game 
+12:08:2023-19:45:22: MESSAGE :frame : 119 : update : 199
+12:08:2023-19:45:23: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:45:24: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:45:25: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:45:26: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:45:27: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:45:28: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:45:29: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:45:30: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:45:31: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:45:32: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:45:33: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:45:34: MESSAGE :frame : 121 : update : 200
+12:08:2023-19:45:35: MESSAGE :frame : 119 : update : 200
+12:08:2023-19:45:36: MESSAGE :frame : 121 : update : 200
+12:08:2023-19:45:37: MESSAGE :frame : 120 : update : 200
+12:08:2023-19:45:38: MESSAGE : set high score 
+12:08:2023-19:45:38: MESSAGE : score file found
+12:08:2023-19:45:38: MESSAGE :setting records 
+12:08:2023-19:45:38: MESSAGE : records file found
+12:08:2023-19:45:38: MESSAGE :game over
+12:08:2023-19:45:38: MESSAGE : 12/08/2023 19:45:38 : 6 
+
+12:08:2023-19:45:38: MESSAGE : 12/08/2023 19:44:04 : 41 
+
+12:08:2023-19:45:38: MESSAGE : 12/08/2023 02:50:49 : 5 
+
+12:08:2023-19:45:38: MESSAGE : 12/08/2023 02:31:39 : 10 
+
+12:08:2023-19:45:38: MESSAGE : 12/08/2023 02:26:17 : 3 
+
+12:08:2023-19:45:38: MESSAGE : 12/08/2023 02:25:13 : 9 
+
+12:08:2023-19:45:38: MESSAGE : 12/08/2023 02:21:41 : 6 
+
+12:08:2023-19:45:38: MESSAGE : 12/08/2023 01:42:52 : 23 
+
+12:08:2023-19:45:38: MESSAGE : 12/08/2023 01:41:59 : 13 
+
+12:08:2023-19:45:38: MESSAGE : 12/08/2023 01:13:58 : 13 
+
+12:08:2023-19:45:38: MESSAGE : 12/08/2023 00:07:22 : 6 
+
+12:08:2023-19:45:38: MESSAGE : 12/08/2023 00:06:47 : 1 
+
+12:08:2023-19:45:38: MESSAGE :gameOver status to run next iteration : true
+12:08:2023-19:45:42: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-19:56:53
+
+12:08:2023-19:56:53: MESSAGE :______SNAKE GAME_______
+12:08:2023-19:56:53: MESSAGE : score file found
+12:08:2023-19:56:53: MESSAGE : records found
+12:08:2023-19:56:58: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-19:57:20
+
+12:08:2023-19:57:20: MESSAGE :______SNAKE GAME_______
+12:08:2023-19:57:20: MESSAGE : score file found
+12:08:2023-19:57:20: MESSAGE : records found
+12:08:2023-19:57:23: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-19:59:15
+
+12:08:2023-19:59:15: MESSAGE :______SNAKE GAME_______
+12:08:2023-19:59:15: MESSAGE : score file found
+12:08:2023-19:59:15: MESSAGE : records found
+12:08:2023-19:59:18: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-19:59:22
+
+12:08:2023-19:59:22: MESSAGE :______SNAKE GAME_______
+12:08:2023-19:59:22: MESSAGE : score file found
+12:08:2023-19:59:22: MESSAGE : records found
+12:08:2023-19:59:24: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-20:00:37
+
+12:08:2023-20:00:37: MESSAGE :______SNAKE GAME_______
+12:08:2023-20:00:37: MESSAGE :no file exists 
+12:08:2023-20:00:37: MESSAGE :no records exists 
+12:08:2023-20:00:48: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-20:04:02
+
+12:08:2023-20:04:02: MESSAGE :______SNAKE GAME_______
+12:08:2023-20:04:02: MESSAGE :no file exists 
+12:08:2023-20:04:02: MESSAGE :no records exists 
+12:08:2023-20:04:02: MESSAGE : set high score 
+12:08:2023-20:04:02: MESSAGE : score file not found creating new file
+12:08:2023-20:04:02: MESSAGE :setting records 
+12:08:2023-20:04:02: MESSAGE : records file not found creating new file
+12:08:2023-20:04:10: MESSAGE :generating new game
+12:08:2023-20:04:10: MESSAGE :game resumed
+12:08:2023-20:04:10: MESSAGE :panel setup done ....
+12:08:2023-20:04:10: MESSAGE :gameover status : false
+12:08:2023-20:04:10: MESSAGE :snake position auto update while not moving ....
+12:08:2023-20:04:10: MESSAGE :gems manager starts adding gems....
+12:08:2023-20:04:10: MESSAGE :current game over status : false
+12:08:2023-20:04:10: MESSAGE :game loop starts
+12:08:2023-20:04:10: MESSAGE :next calling generate new game 
+12:08:2023-20:04:11: MESSAGE :frame : 119 : update : 199
+12:08:2023-20:04:12: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:04:13: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:04:14: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:04:15: MESSAGE :game paused
+12:08:2023-20:04:15: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:04:16: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:04:17: MESSAGE :frame : 0 : update : 0
+12:08:2023-20:04:18: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:04:19: MESSAGE :game exit
+12:08:2023-20:04:19: MESSAGE :gameOver status to run next iteration : true
+
+........NEW SESSION STARTS ........12:08:2023-20:06:26
+
+12:08:2023-20:06:26: MESSAGE :______SNAKE GAME_______
+12:08:2023-20:06:26: MESSAGE :no file exists 
+12:08:2023-20:06:26: MESSAGE :no records exists 
+12:08:2023-20:06:26: MESSAGE : set high score 
+12:08:2023-20:06:26: MESSAGE : score file not found creating new file
+12:08:2023-20:06:26: MESSAGE :setting records 
+12:08:2023-20:06:26: MESSAGE : records file not found creating new file
+12:08:2023-20:06:32: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-20:07:05
+
+12:08:2023-20:07:05: MESSAGE :______SNAKE GAME_______
+12:08:2023-20:07:05: MESSAGE : score file found
+12:08:2023-20:07:05: MESSAGE :file iteration time
+12:08:2023-20:07:05: MESSAGE :getting high score :0
+12:08:2023-20:07:05: MESSAGE : records found
+12:08:2023-20:07:05: MESSAGE :file iteration time
+12:08:2023-20:07:08: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-20:08:17
+
+12:08:2023-20:08:17: MESSAGE :______SNAKE GAME_______
+12:08:2023-20:08:17: MESSAGE : score file found
+12:08:2023-20:08:18: MESSAGE :file iteration time
+12:08:2023-20:08:18: MESSAGE :getting high score :0
+12:08:2023-20:08:18: MESSAGE : records found
+12:08:2023-20:08:18: MESSAGE :file iteration time
+12:08:2023-20:08:25: MESSAGE :generating new game
+12:08:2023-20:08:25: MESSAGE :game resumed
+12:08:2023-20:08:25: MESSAGE :panel setup done ....
+12:08:2023-20:08:25: MESSAGE :gameover status : false
+12:08:2023-20:08:25: MESSAGE :snake position auto update while not moving ....
+12:08:2023-20:08:25: MESSAGE :gems manager starts adding gems....
+12:08:2023-20:08:25: MESSAGE :current game over status : false
+12:08:2023-20:08:25: MESSAGE :game loop starts
+12:08:2023-20:08:25: MESSAGE :next calling generate new game 
+12:08:2023-20:08:26: MESSAGE :frame : 119 : update : 199
+12:08:2023-20:08:27: MESSAGE :frame : 0 : update : 0
+12:08:2023-20:08:28: MESSAGE :frame : 121 : update : 200
+12:08:2023-20:08:29: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:08:30: MESSAGE :frame : 119 : update : 200
+
+........NEW SESSION STARTS ........12:08:2023-20:10:15
+
+12:08:2023-20:10:15: MESSAGE :______SNAKE GAME_______
+12:08:2023-20:10:15: MESSAGE : score file found
+12:08:2023-20:10:15: MESSAGE :file iteration time
+12:08:2023-20:10:15: MESSAGE :getting high score :0
+12:08:2023-20:10:15: MESSAGE : records found
+12:08:2023-20:10:15: MESSAGE :file iteration time
+12:08:2023-20:10:19: MESSAGE :generating new game
+12:08:2023-20:10:19: MESSAGE :game resumed
+12:08:2023-20:10:19: MESSAGE :panel setup done ....
+12:08:2023-20:10:19: MESSAGE :gameover status : false
+12:08:2023-20:10:19: MESSAGE :snake position auto update while not moving ....
+12:08:2023-20:10:19: MESSAGE :gems manager starts adding gems....
+12:08:2023-20:10:19: MESSAGE :current game over status : false
+12:08:2023-20:10:19: MESSAGE :game loop starts
+12:08:2023-20:10:19: MESSAGE :next calling generate new game 
+12:08:2023-20:10:20: MESSAGE :frame : 119 : update : 199
+12:08:2023-20:10:21: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:10:22: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:10:23: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:10:24: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:10:25: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:10:26: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:10:27: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:10:28: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:10:29: MESSAGE :frame : 0 : update : 0
+12:08:2023-20:10:30: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:10:31: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:10:32: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:10:33: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:10:34: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:10:35: MESSAGE :frame : 120 : update : 199
+12:08:2023-20:10:36: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:10:37: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:10:38: MESSAGE :frame : 120 : update : 201
+12:08:2023-20:10:39: MESSAGE :frame : 120 : update : 199
+12:08:2023-20:10:40: MESSAGE :frame : 120 : update : 201
+12:08:2023-20:10:41: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:10:42: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:10:43: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:10:44: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:10:45: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:10:46: MESSAGE :high score changed 
+12:08:2023-20:10:46: MESSAGE : set high score 
+12:08:2023-20:10:46: MESSAGE : score file found
+12:08:2023-20:10:46: MESSAGE :setting records 
+12:08:2023-20:10:46: MESSAGE : records file found
+12:08:2023-20:10:46: MESSAGE :game over
+12:08:2023-20:10:46: MESSAGE : 12/08/2023 20:10:46 : 11 
+
+12:08:2023-20:10:46: MESSAGE :gameOver status to run next iteration : true
+12:08:2023-20:10:51: MESSAGE :generating new game
+12:08:2023-20:10:51: MESSAGE :game resumed
+12:08:2023-20:10:51: MESSAGE :panel setup done ....
+12:08:2023-20:10:51: MESSAGE :gameover status : false
+12:08:2023-20:10:51: MESSAGE :snake position auto update while not moving ....
+12:08:2023-20:10:51: MESSAGE :game loop starts
+12:08:2023-20:10:51: MESSAGE :gems manager starts adding gems....
+12:08:2023-20:10:51: MESSAGE :next calling generate new game 
+12:08:2023-20:10:51: MESSAGE :current game over status : false
+12:08:2023-20:10:52: MESSAGE :frame : 119 : update : 199
+12:08:2023-20:10:53: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:10:54: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:10:55: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:10:56: MESSAGE : set high score 
+12:08:2023-20:10:56: MESSAGE : score file found
+12:08:2023-20:10:56: MESSAGE :setting records 
+12:08:2023-20:10:56: MESSAGE : records file found
+12:08:2023-20:10:56: MESSAGE :game over
+12:08:2023-20:10:56: MESSAGE : 12/08/2023 20:10:56 : 2 
+
+12:08:2023-20:10:56: MESSAGE : 12/08/2023 20:10:46 : 11 
+
+12:08:2023-20:10:56: MESSAGE :gameOver status to run next iteration : true
+12:08:2023-20:11:00: MESSAGE :generating new game
+12:08:2023-20:11:00: MESSAGE :game resumed
+12:08:2023-20:11:00: MESSAGE :panel setup done ....
+12:08:2023-20:11:00: MESSAGE :gameover status : false
+12:08:2023-20:11:00: MESSAGE :snake position auto update while not moving ....
+12:08:2023-20:11:00: MESSAGE :gems manager starts adding gems....
+12:08:2023-20:11:00: MESSAGE :game loop starts
+12:08:2023-20:11:00: MESSAGE :current game over status : false
+12:08:2023-20:11:00: MESSAGE :next calling generate new game 
+12:08:2023-20:11:01: MESSAGE :frame : 119 : update : 199
+12:08:2023-20:11:02: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:03: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:04: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:05: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:06: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:07: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:08: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:09: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:10: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:11: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:12: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:13: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:14: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:15: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:16: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:17: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:18: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:19: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:20: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:21: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:22: MESSAGE :frame : 120 : update : 199
+12:08:2023-20:11:23: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:24: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:25: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:26: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:27: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:28: MESSAGE :frame : 0 : update : 0
+12:08:2023-20:11:29: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:30: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:31: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:32: MESSAGE :self bite
+12:08:2023-20:11:32: MESSAGE :high score changed 
+12:08:2023-20:11:32: MESSAGE : set high score 
+12:08:2023-20:11:32: MESSAGE : score file found
+12:08:2023-20:11:32: MESSAGE :setting records 
+12:08:2023-20:11:32: MESSAGE : records file found
+12:08:2023-20:11:32: MESSAGE :game over
+12:08:2023-20:11:32: MESSAGE : 12/08/2023 20:11:32 : 13 
+
+12:08:2023-20:11:32: MESSAGE : 12/08/2023 20:10:56 : 2 
+
+12:08:2023-20:11:32: MESSAGE : 12/08/2023 20:10:46 : 11 
+
+12:08:2023-20:11:32: MESSAGE :gameOver status to run next iteration : true
+12:08:2023-20:11:39: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-20:11:41
+
+12:08:2023-20:11:41: MESSAGE :______SNAKE GAME_______
+12:08:2023-20:11:41: MESSAGE : score file found
+12:08:2023-20:11:41: MESSAGE :file iteration time
+12:08:2023-20:11:41: MESSAGE :getting high score :13
+12:08:2023-20:11:41: MESSAGE : records found
+12:08:2023-20:11:41: MESSAGE :file iteration time
+12:08:2023-20:11:41: MESSAGE : 12/08/2023 20:11:32 : 13 
+
+12:08:2023-20:11:41: MESSAGE : 12/08/2023 20:10:56 : 2 
+
+12:08:2023-20:11:41: MESSAGE : 12/08/2023 20:10:46 : 11 
+
+12:08:2023-20:11:48: MESSAGE :generating new game
+12:08:2023-20:11:48: MESSAGE :game resumed
+12:08:2023-20:11:48: MESSAGE :panel setup done ....
+12:08:2023-20:11:48: MESSAGE :gameover status : false
+12:08:2023-20:11:48: MESSAGE :snake position auto update while not moving ....
+12:08:2023-20:11:48: MESSAGE :gems manager starts adding gems....
+12:08:2023-20:11:48: MESSAGE :current game over status : false
+12:08:2023-20:11:48: MESSAGE :game loop starts
+12:08:2023-20:11:48: MESSAGE :next calling generate new game 
+12:08:2023-20:11:49: MESSAGE :frame : 119 : update : 199
+12:08:2023-20:11:50: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:51: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:52: MESSAGE :frame : 0 : update : 0
+12:08:2023-20:11:53: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:54: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:55: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:56: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:57: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:11:58: MESSAGE :frame : 0 : update : 0
+12:08:2023-20:11:59: MESSAGE :frame : 120 : update : 201
+12:08:2023-20:12:00: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:01: MESSAGE :frame : 120 : update : 199
+12:08:2023-20:12:02: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:03: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:04: MESSAGE :frame : 0 : update : 0
+12:08:2023-20:12:05: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:06: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:07: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:08: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:09: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:10: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:11: MESSAGE :frame : 119 : update : 200
+12:08:2023-20:12:12: MESSAGE :frame : 120 : update : 198
+12:08:2023-20:12:13: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:14: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:15: MESSAGE :frame : 121 : update : 201
+12:08:2023-20:12:16: MESSAGE :frame : 119 : update : 199
+12:08:2023-20:12:17: MESSAGE :frame : 120 : update : 201
+12:08:2023-20:12:18: MESSAGE :frame : 120 : update : 199
+12:08:2023-20:12:19: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:20: MESSAGE :frame : 120 : update : 201
+12:08:2023-20:12:21: MESSAGE :frame : 120 : update : 199
+12:08:2023-20:12:22: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:23: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:24: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:25: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:26: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:27: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:28: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:29: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:30: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:31: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:32: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:33: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:34: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:35: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:36: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:37: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:38: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:39: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:40: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:41: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:42: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:43: MESSAGE :frame : 120 : update : 199
+12:08:2023-20:12:44: MESSAGE :frame : 120 : update : 201
+12:08:2023-20:12:45: MESSAGE :frame : 120 : update : 199
+12:08:2023-20:12:46: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:12:47: MESSAGE :self bite
+12:08:2023-20:12:47: MESSAGE :high score changed 
+12:08:2023-20:12:47: MESSAGE : set high score 
+12:08:2023-20:12:47: MESSAGE : score file found
+12:08:2023-20:12:47: MESSAGE :setting records 
+12:08:2023-20:12:47: MESSAGE : records file found
+12:08:2023-20:12:47: MESSAGE :game over
+12:08:2023-20:12:47: MESSAGE : 12/08/2023 20:12:47 : 28 
+
+12:08:2023-20:12:47: MESSAGE : 12/08/2023 20:11:32 : 13 
+
+12:08:2023-20:12:47: MESSAGE : 12/08/2023 20:10:56 : 2 
+
+12:08:2023-20:12:47: MESSAGE : 12/08/2023 20:10:46 : 11 
+
+12:08:2023-20:12:47: MESSAGE :gameOver status to run next iteration : true
+12:08:2023-20:12:52: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-20:14:31
+
+12:08:2023-20:14:31: MESSAGE :______SNAKE GAME_______
+12:08:2023-20:14:31: MESSAGE : score file found
+12:08:2023-20:14:31: MESSAGE :file iteration time
+12:08:2023-20:14:31: MESSAGE :getting high score :28
+12:08:2023-20:14:31: MESSAGE : records found
+12:08:2023-20:14:31: MESSAGE :file iteration time
+12:08:2023-20:14:32: MESSAGE : 12/08/2023 20:12:47 : 28 
+
+12:08:2023-20:14:32: MESSAGE : 12/08/2023 20:11:32 : 13 
+
+12:08:2023-20:14:32: MESSAGE : 12/08/2023 20:10:56 : 2 
+
+12:08:2023-20:14:32: MESSAGE : 12/08/2023 20:10:46 : 11 
+
+12:08:2023-20:14:36: MESSAGE :generating new game
+12:08:2023-20:14:36: MESSAGE :game resumed
+12:08:2023-20:14:36: MESSAGE :panel setup done ....
+12:08:2023-20:14:36: MESSAGE :gameover status : false
+12:08:2023-20:14:36: MESSAGE :gems manager starts adding gems....
+12:08:2023-20:14:36: MESSAGE :snake position auto update while not moving ....
+12:08:2023-20:14:36: MESSAGE :current game over status : false
+12:08:2023-20:14:36: MESSAGE :game loop starts
+12:08:2023-20:14:36: MESSAGE :next calling generate new game 
+12:08:2023-20:14:37: MESSAGE :frame : 0 : update : 0
+12:08:2023-20:14:38: MESSAGE :frame : 0 : update : 0
+12:08:2023-20:14:39: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:14:40: MESSAGE :frame : 121 : update : 201
+12:08:2023-20:14:41: MESSAGE :frame : 120 : update : 199
+12:08:2023-20:14:42: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:14:43: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:14:44: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:14:45: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:14:46: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:14:47: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:14:48: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:14:49: MESSAGE :frame : 120 : update : 199
+12:08:2023-20:14:50: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:14:51: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:14:52: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:14:53: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:14:54: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:14:55: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:14:56: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:14:57: MESSAGE :frame : 0 : update : 0
+12:08:2023-20:14:58: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:14:59: MESSAGE :frame : 0 : update : 0
+12:08:2023-20:15:00: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:15:01: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:15:02: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:15:03: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:15:04: MESSAGE :frame : 119 : update : 200
+12:08:2023-20:15:05: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:15:06: MESSAGE :frame : 121 : update : 200
+12:08:2023-20:15:07: MESSAGE :frame : 119 : update : 200
+12:08:2023-20:15:08: MESSAGE :frame : 121 : update : 200
+12:08:2023-20:15:09: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:15:10: MESSAGE :frame : 120 : update : 200
+12:08:2023-20:15:11: MESSAGE :frame : 120 : update : 199
+12:08:2023-20:15:11: MESSAGE : set high score 
+12:08:2023-20:15:11: MESSAGE : score file found
+12:08:2023-20:15:11: MESSAGE :setting records 
+12:08:2023-20:15:11: MESSAGE : records file found
+12:08:2023-20:15:11: MESSAGE :game over
+12:08:2023-20:15:11: MESSAGE : 12/08/2023 20:15:11 : 16 
+
+12:08:2023-20:15:11: MESSAGE : 12/08/2023 20:12:47 : 28 
+
+12:08:2023-20:15:11: MESSAGE : 12/08/2023 20:11:32 : 13 
+
+12:08:2023-20:15:11: MESSAGE : 12/08/2023 20:10:56 : 2 
+
+12:08:2023-20:15:11: MESSAGE : 12/08/2023 20:10:46 : 11 
+
+12:08:2023-20:15:11: MESSAGE :gameOver status to run next iteration : true
+12:08:2023-20:15:18: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-21:31:34
+
+12:08:2023-21:31:34: MESSAGE :______SNAKE GAME_______
+12:08:2023-21:31:34: MESSAGE :no file exists 
+12:08:2023-21:31:34: MESSAGE :no records exists 
+12:08:2023-21:31:34: MESSAGE : set high score 
+12:08:2023-21:31:34: MESSAGE : score file found
+12:08:2023-21:31:34: MESSAGE :setting records 
+12:08:2023-21:31:34: MESSAGE : records file found
+12:08:2023-21:31:46: MESSAGE :generating new game
+12:08:2023-21:31:46: MESSAGE :game resumed
+12:08:2023-21:31:46: MESSAGE :panel setup done ....
+12:08:2023-21:31:46: MESSAGE :gameover status : false
+12:08:2023-21:31:46: MESSAGE :snake position auto update while not moving ....
+12:08:2023-21:31:46: MESSAGE :gems manager starts adding gems....
+12:08:2023-21:31:46: MESSAGE :current game over status : false
+12:08:2023-21:31:46: MESSAGE :game loop starts
+12:08:2023-21:31:46: MESSAGE :next calling generate new game 
+12:08:2023-21:31:47: MESSAGE :frame : 119 : update : 199
+12:08:2023-21:31:48: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:31:49: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:31:50: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:31:51: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:31:52: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:31:53: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:31:54: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:31:55: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:31:56: MESSAGE :high score changed 
+12:08:2023-21:31:56: MESSAGE : set high score 
+12:08:2023-21:31:56: MESSAGE : score file found
+12:08:2023-21:31:56: MESSAGE :setting records 
+12:08:2023-21:31:56: MESSAGE : records file found
+12:08:2023-21:31:56: MESSAGE :game over
+12:08:2023-21:31:56: MESSAGE : 12/08/2023 21:31:56 : 2 
+
+12:08:2023-21:31:56: MESSAGE :frame : 118 : update : 197
+12:08:2023-21:31:56: MESSAGE :gameOver status to run next iteration : true
+12:08:2023-21:31:59: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-21:32:07
+
+12:08:2023-21:32:07: MESSAGE :______SNAKE GAME_______
+12:08:2023-21:32:07: MESSAGE :no file exists 
+12:08:2023-21:32:07: MESSAGE :no records exists 
+12:08:2023-21:32:07: MESSAGE : set high score 
+12:08:2023-21:32:07: MESSAGE : score file found
+12:08:2023-21:32:07: MESSAGE :setting records 
+12:08:2023-21:32:07: MESSAGE : records file found
+12:08:2023-21:32:14: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-21:32:41
+
+12:08:2023-21:32:41: MESSAGE :______SNAKE GAME_______
+12:08:2023-21:32:41: MESSAGE : score file found
+12:08:2023-21:32:41: MESSAGE :file iteration time
+12:08:2023-21:32:41: MESSAGE :getting high score :0
+12:08:2023-21:32:41: MESSAGE : records found
+12:08:2023-21:32:41: MESSAGE :file iteration time
+12:08:2023-21:32:45: MESSAGE :generating new game
+12:08:2023-21:32:45: MESSAGE :game resumed
+12:08:2023-21:32:45: MESSAGE :panel setup done ....
+12:08:2023-21:32:45: MESSAGE :gameover status : false
+12:08:2023-21:32:45: MESSAGE :gems manager starts adding gems....
+12:08:2023-21:32:45: MESSAGE :snake position auto update while not moving ....
+12:08:2023-21:32:45: MESSAGE :current game over status : false
+12:08:2023-21:32:45: MESSAGE :game loop starts
+12:08:2023-21:32:45: MESSAGE :next calling generate new game 
+12:08:2023-21:32:46: MESSAGE :frame : 119 : update : 199
+12:08:2023-21:32:47: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:32:48: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:32:49: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:32:50: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:32:51: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:32:52: MESSAGE :frame : 0 : update : 0
+12:08:2023-21:32:53: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:32:54: MESSAGE :frame : 0 : update : 0
+12:08:2023-21:32:55: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:32:56: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:32:56: MESSAGE :high score changed 
+12:08:2023-21:32:56: MESSAGE : set high score 
+12:08:2023-21:32:56: MESSAGE : score file found
+12:08:2023-21:32:57: MESSAGE :setting records 
+12:08:2023-21:32:57: MESSAGE : records file found
+12:08:2023-21:32:57: MESSAGE :game over
+12:08:2023-21:32:57: MESSAGE : 12/08/2023 21:32:56 : 2 
+
+12:08:2023-21:32:57: MESSAGE :gameOver status to run next iteration : true
+12:08:2023-21:33:10: MESSAGE :generating new game
+12:08:2023-21:33:11: MESSAGE :game resumed
+12:08:2023-21:33:11: MESSAGE :panel setup done ....
+12:08:2023-21:33:11: MESSAGE :gameover status : false
+12:08:2023-21:33:11: MESSAGE :snake position auto update while not moving ....
+12:08:2023-21:33:11: MESSAGE :gems manager starts adding gems....
+12:08:2023-21:33:11: MESSAGE :current game over status : false
+12:08:2023-21:33:11: MESSAGE :game loop starts
+12:08:2023-21:33:11: MESSAGE :next calling generate new game 
+12:08:2023-21:33:12: MESSAGE :frame : 119 : update : 199
+12:08:2023-21:33:13: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:33:14: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:33:15: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:33:16: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:33:17: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:33:18: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:33:19: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:33:20: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:33:21: MESSAGE : set high score 
+12:08:2023-21:33:21: MESSAGE : score file found
+12:08:2023-21:33:21: MESSAGE :setting records 
+12:08:2023-21:33:21: MESSAGE : records file found
+12:08:2023-21:33:21: MESSAGE :game over
+12:08:2023-21:33:21: MESSAGE : 12/08/2023 21:33:21 : 2 
+
+12:08:2023-21:33:21: MESSAGE : 12/08/2023 21:32:56 : 2 
+
+12:08:2023-21:33:21: MESSAGE :gameOver status to run next iteration : true
+12:08:2023-21:33:23: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-21:33:25
+
+12:08:2023-21:33:25: MESSAGE :______SNAKE GAME_______
+12:08:2023-21:33:25: MESSAGE : score file found
+12:08:2023-21:33:25: MESSAGE :file iteration time
+12:08:2023-21:33:25: MESSAGE :getting high score :2
+12:08:2023-21:33:25: MESSAGE : records found
+12:08:2023-21:33:25: MESSAGE :file iteration time
+12:08:2023-21:33:25: MESSAGE : 12/08/2023 21:33:21 : 2 
+
+12:08:2023-21:33:25: MESSAGE : 12/08/2023 21:32:56 : 2 
+
+12:08:2023-21:33:30: MESSAGE :generating new game
+12:08:2023-21:33:30: MESSAGE :game resumed
+12:08:2023-21:33:30: MESSAGE :panel setup done ....
+12:08:2023-21:33:30: MESSAGE :gameover status : false
+12:08:2023-21:33:30: MESSAGE :snake position auto update while not moving ....
+12:08:2023-21:33:30: MESSAGE :gems manager starts adding gems....
+12:08:2023-21:33:30: MESSAGE :current game over status : false
+12:08:2023-21:33:30: MESSAGE :game loop starts
+12:08:2023-21:33:30: MESSAGE :next calling generate new game 
+12:08:2023-21:33:31: MESSAGE :frame : 120 : update : 199
+12:08:2023-21:33:32: MESSAGE :frame : 119 : update : 200
+12:08:2023-21:33:33: MESSAGE :frame : 121 : update : 200
+12:08:2023-21:33:34: MESSAGE :frame : 119 : update : 199
+12:08:2023-21:33:35: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:33:36: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:33:37: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:33:38: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:33:39: MESSAGE :frame : 119 : update : 199
+12:08:2023-21:33:40: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:33:41: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:33:42: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:33:43: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:33:44: MESSAGE :high score changed 
+12:08:2023-21:33:44: MESSAGE : set high score 
+12:08:2023-21:33:44: MESSAGE : score file found
+12:08:2023-21:33:44: MESSAGE :setting records 
+12:08:2023-21:33:44: MESSAGE : records file found
+12:08:2023-21:33:44: MESSAGE :game over
+12:08:2023-21:33:44: MESSAGE : 12/08/2023 21:33:44 : 5 
+
+12:08:2023-21:33:44: MESSAGE : 12/08/2023 21:33:21 : 2 
+
+12:08:2023-21:33:44: MESSAGE : 12/08/2023 21:32:56 : 2 
+
+12:08:2023-21:33:44: MESSAGE :gameOver status to run next iteration : true
+12:08:2023-21:33:46: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-21:33:48
+
+12:08:2023-21:33:48: MESSAGE :______SNAKE GAME_______
+12:08:2023-21:33:48: MESSAGE : score file found
+12:08:2023-21:33:48: MESSAGE :file iteration time
+12:08:2023-21:33:48: MESSAGE :getting high score :5
+12:08:2023-21:33:48: MESSAGE : records found
+12:08:2023-21:33:49: MESSAGE :file iteration time
+12:08:2023-21:33:49: MESSAGE : 12/08/2023 21:33:44 : 5 
+
+12:08:2023-21:33:49: MESSAGE : 12/08/2023 21:33:21 : 2 
+
+12:08:2023-21:33:49: MESSAGE : 12/08/2023 21:32:56 : 2 
+
+12:08:2023-21:34:01: MESSAGE :generating new game
+12:08:2023-21:34:01: MESSAGE :game resumed
+12:08:2023-21:34:01: MESSAGE :panel setup done ....
+12:08:2023-21:34:01: MESSAGE :gameover status : false
+12:08:2023-21:34:01: MESSAGE :snake position auto update while not moving ....
+12:08:2023-21:34:01: MESSAGE :gems manager starts adding gems....
+12:08:2023-21:34:01: MESSAGE :current game over status : false
+12:08:2023-21:34:01: MESSAGE :game loop starts
+12:08:2023-21:34:01: MESSAGE :next calling generate new game 
+12:08:2023-21:34:02: MESSAGE :frame : 119 : update : 199
+12:08:2023-21:34:03: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:34:04: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:34:05: MESSAGE :frame : 0 : update : 0
+12:08:2023-21:34:06: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:34:07: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:34:08: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:34:09: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:34:10: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:34:11: MESSAGE :frame : 120 : update : 199
+12:08:2023-21:34:11: MESSAGE : set high score 
+12:08:2023-21:34:11: MESSAGE : score file found
+12:08:2023-21:34:11: MESSAGE :setting records 
+12:08:2023-21:34:11: MESSAGE : records file found
+12:08:2023-21:34:11: MESSAGE :game over
+12:08:2023-21:34:11: MESSAGE : 12/08/2023 21:34:11 : 4 
+
+12:08:2023-21:34:11: MESSAGE : 12/08/2023 21:33:44 : 5 
+
+12:08:2023-21:34:11: MESSAGE : 12/08/2023 21:33:21 : 2 
+
+12:08:2023-21:34:11: MESSAGE : 12/08/2023 21:32:56 : 2 
+
+12:08:2023-21:34:11: MESSAGE :gameOver status to run next iteration : true
+12:08:2023-21:34:15: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-21:34:17
+
+12:08:2023-21:34:17: MESSAGE :______SNAKE GAME_______
+12:08:2023-21:34:17: MESSAGE : score file found
+12:08:2023-21:34:17: MESSAGE :file iteration time
+12:08:2023-21:34:17: MESSAGE :getting high score :5
+12:08:2023-21:34:17: MESSAGE : records found
+12:08:2023-21:34:18: MESSAGE :file iteration time
+12:08:2023-21:34:18: MESSAGE : 12/08/2023 21:34:11 : 4 
+
+12:08:2023-21:34:18: MESSAGE : 12/08/2023 21:33:44 : 5 
+
+12:08:2023-21:34:18: MESSAGE : 12/08/2023 21:33:21 : 2 
+
+12:08:2023-21:34:18: MESSAGE : 12/08/2023 21:32:56 : 2 
+
+12:08:2023-21:34:24: MESSAGE :generating new game
+12:08:2023-21:34:24: MESSAGE :game resumed
+12:08:2023-21:34:24: MESSAGE :panel setup done ....
+12:08:2023-21:34:24: MESSAGE :gameover status : false
+12:08:2023-21:34:24: MESSAGE :snake position auto update while not moving ....
+12:08:2023-21:34:24: MESSAGE :gems manager starts adding gems....
+12:08:2023-21:34:24: MESSAGE :current game over status : false
+12:08:2023-21:34:24: MESSAGE :game loop starts
+12:08:2023-21:34:24: MESSAGE :next calling generate new game 
+12:08:2023-21:34:25: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:34:26: MESSAGE :frame : 119 : update : 200
+12:08:2023-21:34:27: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:34:28: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:34:29: MESSAGE :frame : 120 : update : 199
+12:08:2023-21:34:30: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:34:31: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:34:32: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:34:33: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:34:34: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:34:35: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:34:36: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:34:37: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:34:38: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:34:39: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:34:40: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:34:41: MESSAGE :frame : 0 : update : 0
+12:08:2023-21:34:42: MESSAGE :self bite
+12:08:2023-21:34:42: MESSAGE :high score changed 
+12:08:2023-21:34:42: MESSAGE : set high score 
+12:08:2023-21:34:42: MESSAGE : score file found
+12:08:2023-21:34:42: MESSAGE :setting records 
+12:08:2023-21:34:42: MESSAGE : records file found
+12:08:2023-21:34:42: MESSAGE :game over
+12:08:2023-21:34:42: MESSAGE : 12/08/2023 21:34:42 : 8 
+
+12:08:2023-21:34:42: MESSAGE : 12/08/2023 21:34:11 : 4 
+
+12:08:2023-21:34:42: MESSAGE : 12/08/2023 21:33:44 : 5 
+
+12:08:2023-21:34:42: MESSAGE : 12/08/2023 21:33:21 : 2 
+
+12:08:2023-21:34:42: MESSAGE : 12/08/2023 21:32:56 : 2 
+
+12:08:2023-21:34:42: MESSAGE :frame : 112 : update : 187
+12:08:2023-21:34:42: MESSAGE :gameOver status to run next iteration : true
+12:08:2023-21:34:46: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-21:34:48
+
+12:08:2023-21:34:48: MESSAGE :______SNAKE GAME_______
+12:08:2023-21:34:48: MESSAGE : score file found
+12:08:2023-21:34:48: MESSAGE :file iteration time
+12:08:2023-21:34:48: MESSAGE :getting high score :8
+12:08:2023-21:34:48: MESSAGE : records found
+12:08:2023-21:34:48: MESSAGE :file iteration time
+12:08:2023-21:34:48: MESSAGE : 12/08/2023 21:34:42 : 8 
+
+12:08:2023-21:34:48: MESSAGE : 12/08/2023 21:34:11 : 4 
+
+12:08:2023-21:34:48: MESSAGE : 12/08/2023 21:33:44 : 5 
+
+12:08:2023-21:34:48: MESSAGE : 12/08/2023 21:33:21 : 2 
+
+12:08:2023-21:34:48: MESSAGE : 12/08/2023 21:32:56 : 2 
+
+12:08:2023-21:34:50: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-21:38:28
+
+12:08:2023-21:38:28: MESSAGE :______SNAKE GAME_______
+12:08:2023-21:38:28: MESSAGE : score file found
+12:08:2023-21:38:28: MESSAGE :file iteration time
+12:08:2023-21:38:28: MESSAGE :getting high score :8
+12:08:2023-21:38:28: MESSAGE : records found
+12:08:2023-21:38:28: MESSAGE :file iteration time
+12:08:2023-21:38:29: MESSAGE : 12/08/2023 21:34:42 : 8 
+
+12:08:2023-21:38:29: MESSAGE : 12/08/2023 21:34:11 : 4 
+
+12:08:2023-21:38:29: MESSAGE : 12/08/2023 21:33:44 : 5 
+
+12:08:2023-21:38:29: MESSAGE : 12/08/2023 21:33:21 : 2 
+
+12:08:2023-21:38:29: MESSAGE : 12/08/2023 21:32:56 : 2 
+
+12:08:2023-21:38:33: MESSAGE :generating new game
+12:08:2023-21:38:33: MESSAGE :game resumed
+12:08:2023-21:38:33: MESSAGE :panel setup done ....
+12:08:2023-21:38:33: MESSAGE :gameover status : false
+12:08:2023-21:38:33: MESSAGE :snake position auto update while not moving ....
+12:08:2023-21:38:33: MESSAGE :gems manager starts adding gems....
+12:08:2023-21:38:33: MESSAGE :current game over status : false
+12:08:2023-21:38:33: MESSAGE :game loop starts
+12:08:2023-21:38:33: MESSAGE :next calling generate new game 
+12:08:2023-21:38:34: MESSAGE :frame : 119 : update : 199
+12:08:2023-21:38:35: MESSAGE :frame : 121 : update : 200
+12:08:2023-21:38:36: MESSAGE :frame : 119 : update : 200
+12:08:2023-21:38:37: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:38:38: MESSAGE :frame : 121 : update : 200
+12:08:2023-21:38:39: MESSAGE :frame : 119 : update : 200
+12:08:2023-21:38:40: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:38:41: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:38:42: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:38:43: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:38:44: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:38:45: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:38:46: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:38:47: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:38:48: MESSAGE :frame : 0 : update : 0
+12:08:2023-21:38:49: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:38:50: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:38:51: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:38:52: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:38:53: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:38:54: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:38:55: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:38:56: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:38:57: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:38:58: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:38:59: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:39:00: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:39:01: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:39:02: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:39:03: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:39:04: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:39:05: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:39:06: MESSAGE :frame : 120 : update : 199
+12:08:2023-21:39:07: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:39:08: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:39:09: MESSAGE :frame : 120 : update : 201
+12:08:2023-21:39:10: MESSAGE :frame : 120 : update : 199
+12:08:2023-21:39:10: MESSAGE :self bite
+12:08:2023-21:39:10: MESSAGE :high score changed 
+12:08:2023-21:39:10: MESSAGE : set high score 
+12:08:2023-21:39:10: MESSAGE : score file found
+12:08:2023-21:39:10: MESSAGE :setting records 
+12:08:2023-21:39:10: MESSAGE : records file found
+12:08:2023-21:39:10: MESSAGE :game over
+12:08:2023-21:39:10: MESSAGE : 12/08/2023 21:39:10 : 19 
+
+12:08:2023-21:39:10: MESSAGE : 12/08/2023 21:34:42 : 8 
+
+12:08:2023-21:39:10: MESSAGE : 12/08/2023 21:34:11 : 4 
+
+12:08:2023-21:39:10: MESSAGE : 12/08/2023 21:33:44 : 5 
+
+12:08:2023-21:39:10: MESSAGE : 12/08/2023 21:33:21 : 2 
+
+12:08:2023-21:39:10: MESSAGE : 12/08/2023 21:32:56 : 2 
+
+12:08:2023-21:39:10: MESSAGE :gameOver status to run next iteration : true
+12:08:2023-21:39:14: MESSAGE :generating new game
+12:08:2023-21:39:14: MESSAGE :game resumed
+12:08:2023-21:39:14: MESSAGE :panel setup done ....
+12:08:2023-21:39:14: MESSAGE :gameover status : false
+12:08:2023-21:39:14: MESSAGE :gems manager starts adding gems....
+12:08:2023-21:39:14: MESSAGE :snake position auto update while not moving ....
+12:08:2023-21:39:14: MESSAGE :current game over status : false
+12:08:2023-21:39:14: MESSAGE :game loop starts
+12:08:2023-21:39:14: MESSAGE :next calling generate new game 
+12:08:2023-21:39:15: MESSAGE :frame : 119 : update : 199
+12:08:2023-21:39:16: MESSAGE :frame : 120 : update : 200
+12:08:2023-21:39:17: MESSAGE : set high score 
+12:08:2023-21:39:17: MESSAGE : score file found
+12:08:2023-21:39:17: MESSAGE :setting records 
+12:08:2023-21:39:17: MESSAGE : records file found
+12:08:2023-21:39:17: MESSAGE :game over
+12:08:2023-21:39:17: MESSAGE : 12/08/2023 21:39:17 : 1 
+
+12:08:2023-21:39:17: MESSAGE : 12/08/2023 21:39:10 : 19 
+
+12:08:2023-21:39:17: MESSAGE : 12/08/2023 21:34:42 : 8 
+
+12:08:2023-21:39:17: MESSAGE : 12/08/2023 21:34:11 : 4 
+
+12:08:2023-21:39:17: MESSAGE : 12/08/2023 21:33:44 : 5 
+
+12:08:2023-21:39:17: MESSAGE : 12/08/2023 21:33:21 : 2 
+
+12:08:2023-21:39:17: MESSAGE : 12/08/2023 21:32:56 : 2 
+
+12:08:2023-21:39:17: MESSAGE :gameOver status to run next iteration : true
+12:08:2023-21:39:19: MESSAGE :game exit
+
+........NEW SESSION STARTS ........12:08:2023-21:39:21
+
+12:08:2023-21:39:21: MESSAGE :______SNAKE GAME_______
+12:08:2023-21:39:21: MESSAGE : score file found
+12:08:2023-21:39:21: MESSAGE :file iteration time
+12:08:2023-21:39:21: MESSAGE :getting high score :19
+12:08:2023-21:39:21: MESSAGE : records found
+12:08:2023-21:39:21: MESSAGE :file iteration time
+12:08:2023-21:39:21: MESSAGE : 12/08/2023 21:39:17 : 1 
+
+12:08:2023-21:39:21: MESSAGE : 12/08/2023 21:39:10 : 19 
+
+12:08:2023-21:39:21: MESSAGE : 12/08/2023 21:34:42 : 8 
+
+12:08:2023-21:39:21: MESSAGE : 12/08/2023 21:34:11 : 4 
+
+12:08:2023-21:39:21: MESSAGE : 12/08/2023 21:33:44 : 5 
+
+12:08:2023-21:39:21: MESSAGE : 12/08/2023 21:33:21 : 2 
+
+12:08:2023-21:39:21: MESSAGE : 12/08/2023 21:32:56 : 2 
+
+12:08:2023-21:39:27: MESSAGE :game exit
