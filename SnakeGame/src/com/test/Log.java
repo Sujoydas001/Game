@@ -10,10 +10,12 @@ import java.io.File;
 public class Log {
 	public BufferedWriter writer  ; 
 	private SimpleDateFormat formatter ; 
-	public Log() {
+	private String pathString ; 
+	public Log(String pathString) {
+		this.pathString = pathString ; 
 		formatter = new SimpleDateFormat("dd:MM:yyyy-HH:mm:ss") ; 
 		try {
-		    File pathFile = new File("applog.txt");
+		    File pathFile = new File(this.pathString);
 		    if ( !pathFile.exists()) { pathFile.createNewFile();};
 			this.writer =new BufferedWriter( new FileWriter(pathFile , true)) ;	
 			this.writer.append("\n........NEW SESSION STARTS ........" + formatter.format(new Date()) + "\n\n" );

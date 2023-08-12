@@ -24,7 +24,7 @@ public class ScoreCardManager {
 	
 	private void setHighScore() {
 		Utility.log.d(" set high score ");
-		File file = new File("score.txt"); 
+		File file = new File(Utility.highscoreFileString); 
 		if ( !file.exists()) {
 			try {
 				Utility.log.d(" score file not found creating new file");
@@ -47,7 +47,7 @@ public class ScoreCardManager {
 	}
 	private void setScoreRecords() {
 		Utility.log.d("setting records ");
-		File file = new File("records.txt"); 
+		File file = new File(Utility.scorecardFileString); 
 		if ( !file.exists()) {
 			try {
 				Utility.log.d(" records file not found creating new file");
@@ -77,7 +77,7 @@ public class ScoreCardManager {
 		getScoreRecords(); 
 	}
 	private void getScoreRecords() {
-		File file = new File("records.txt"); 
+		File file = new File(Utility.scorecardFileString); 
 		if ( !file.exists()) {
 			Utility.log.d("no records exists ");
 			setScoreCards();
@@ -99,7 +99,7 @@ public class ScoreCardManager {
 		} 
 	}
 	private void getHighScore() {
-		File file = new File("score.txt"); 
+		File file = new File(Utility.highscoreFileString); 
 		if ( !file.exists()) {
 			Utility.log.d("no file exists ");
 			return ; 

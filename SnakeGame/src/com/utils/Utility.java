@@ -8,7 +8,9 @@ public class Utility {
 			scoreBoardHeight = 40 ,scoreBoardWidth = screenWidth,panelHeight = screenHeight-scoreBoardHeight ,
 			panelWidth = screenWidth; 
 	public static boolean paused = true , gameOver = true ,renderComplete = true ,updateComplete = true  ; 
-	public static final Log log = new Log() ;
+	public static final Log log = new Log("db/applog.txt") ;
+	public static final String scorecardFileString = "db/records.txt";
+	public static final String highscoreFileString = "db/score.txt";
 	public static GameManager gameManager  ; 
 	public static float currVol = 60 ; 
 	
