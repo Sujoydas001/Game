@@ -20,7 +20,7 @@ public class UnitTest extends JFrame{
 		panel.setLayout(new BorderLayout());
 		JLabel label = new JLabel(""); 
 		panel.add(label); 
-		ImageIcon imgIcon = new ImageIcon("res/imgonline-com-ua-resize-63OBK4rLXa.png"); 
+		ImageIcon imgIcon = new ImageIcon("res/exit.png"); 
 //		imgIcon.set
 		label.setIcon(imgIcon);
 		this.add(panel); 
