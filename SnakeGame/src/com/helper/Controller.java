@@ -1,9 +1,11 @@
 package com.helper;
 
+import java.util.ArrayList;
 import java.util.Date;
 
 import com.components.ScorePanel;
 import com.entity.Gems;
+import com.entity.Position;
 import com.entity.ScoreCard;
 import com.entity.Snake;
 import com.threads.SoundPlayerThread;
@@ -41,16 +43,16 @@ public class Controller {
 	}
 	
 	private void checkSelfBite() {
-		int snakeheadx = this.snake.getCmofSnake()[this.snake.getHeadidx()][0]; 
-		int snakeheady = this.snake.getCmofSnake()[this.snake.getHeadidx()][1];
-		int [][] cmofSnake  = this.snake.getCmofSnake() ; 
+		int snakeheadx = this.snake.getCmofSnake().get(this.snake.getHeadidx()).x; 
+		int snakeheady = this.snake.getCmofSnake().get(this.snake.getHeadidx()).y;
+		ArrayList<Position> cmofSnake  = this.snake.getCmofSnake() ; 
 		for ( int i = 0 ; i < this.snake.getSize() ; i++ ) {
 			if ( i != this.snake.getHeadidx() ) {
 				
 				
 				
-				if( snakeheadx == cmofSnake[i][0] && 
-						snakeheady == cmofSnake[i][1] ) {
+				if( snakeheadx == cmofSnake.get(i).x && 
+						snakeheady == cmofSnake.get(i).y ) {
 					Utility.log.d("self bite");
 					onCrash();
 					return ; 
@@ -63,8 +65,8 @@ public class Controller {
 	
 
 	private boolean checkHit(Gems each ) {
-		int snakeheadx = this.snake.getPosition()[this.snake.getHeadidx()][0]; 
-		int snakeheady = this.snake.getPosition()[this.snake.getHeadidx()][1];
+		int snakeheadx = this.snake.getPosition().get(this.snake.getHeadidx()).x; 
+		int snakeheady = this.snake.getPosition().get(this.snake.getHeadidx()).y;
 		if (  ( (each.getYpos() + each.getHeight()) > (snakeheady )
 				&& 
 				( (each.getYpos()) < ( (snakeheady + 10 )  ))
@@ -84,8 +86,9 @@ public class Controller {
 			run.start(); 
 	}
 	private void checkBoundaryHit() {
-		int xpos = ( this.snake.getPosition()[this.snake.getHeadidx()][0]) ;
-		int ypos = ( this.snake.getPosition()[this.snake.getHeadidx()][1]) ;
+		int xpos = this.snake.getCmofSnake().get(this.snake.getHeadidx()).x; 
+		int ypos = this.snake.getCmofSnake().get(this.snake.getHeadidx()).y;
+		
 		if ( ( xpos <= 0 || xpos >= Utility.panelWidth )
 			||
 			(ypos <= 0 || ypos >= Utility.panelHeight ) )

@@ -34,6 +34,11 @@ public class InputListener  implements KeyListener , MouseInputListener{
 	@Override
 	public void keyPressed(KeyEvent e) {
 		
+		if ( e.getKeyCode() == KeyEvent.VK_SPACE ){
+			this.snake.setOnErossion(true);
+			
+		};
+		
 		if ( e.getKeyCode() == KeyEvent.VK_LEFT ){
 			if ( this.snake.getLastMoveDirection() != Direction.EAST ) {
 				this.snake.setLastMoveDirection(Direction.WEST);
@@ -71,6 +76,11 @@ public class InputListener  implements KeyListener , MouseInputListener{
 	}
 	@Override
 	public void keyReleased(KeyEvent e) {
+		if ( e.getKeyCode() == KeyEvent.VK_SPACE ){
+			this.snake.setOnErossion(false);
+			
+			
+		};
 		if ( e.getKeyCode() == KeyEvent.VK_LEFT ){
 			this.snake.setMovement(false);
 			this.snake.setMoveLeft(false);

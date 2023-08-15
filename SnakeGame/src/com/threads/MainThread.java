@@ -11,13 +11,14 @@ public class MainThread implements Runnable{
 	public void run() {
 		
 		long timeperFrame = 1000000000 / Utility.FPS ; 
-		long timeperUpdate = 1000000000 / Utility.UPS ; 
+		
 		double deltaF = 0 , deltaU = 0 ;  
 		long framecount = 0 , updatecount = 0 , prevtimeforframe = System.nanoTime() , prevtimeforupdate = System.nanoTime() ;
 		long checktimeforprint = System.currentTimeMillis(),resetFrameCountAndUpdateCount = System.currentTimeMillis() ; 
 		while( !Utility.gameOver ) {
 			
 			long now = System.nanoTime() ; 
+			long timeperUpdate = 1000000000 / Utility.UPS ; 
 			deltaF += ( now - prevtimeforframe )/ timeperFrame  ; 
 			deltaU += ( now - prevtimeforupdate )/ timeperUpdate  ; 
 			
