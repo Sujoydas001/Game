@@ -15,6 +15,12 @@ public class Gems {
 		this.width = Utility.obstacleWidth ;
 		this.height = Utility.obstacleHeight ; 
 	}
+	public Gems(int xpos,int ypos) {
+		this.xpos = xpos ; 
+		this.ypos = ypos ;  
+		this.width = Utility.obstacleWidth ;
+		this.height = Utility.obstacleHeight ; 
+	}
 	public int getWidth() {
 		return width;
 	}

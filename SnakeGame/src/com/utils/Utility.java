@@ -9,8 +9,6 @@ public class Utility {
 	public static final int obstacleHeight =10;
 	public static final int screenHeight = 600;
 	public static final int screenWidth = 600;
-	public static final int maxSnakeLength = 500;
-	public static final int maxGemsCount = 10000;
 	public static final int scoreBoardHeight = 40;
 	public static final int scoreBoardWidth = screenWidth;
 	public static final int panelHeight = screenHeight-scoreBoardHeight;

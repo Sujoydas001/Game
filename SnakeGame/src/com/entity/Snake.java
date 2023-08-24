@@ -2,9 +2,11 @@ package com.entity;
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
+import java.awt.Robot;
 import java.util.ArrayList;
 
 import com.utils.Direction;
+import com.utils.SnakeType;
 import com.utils.Utility;
 
 
@@ -13,12 +15,14 @@ public class Snake {
 	private  ArrayList<Position> cmofSnake ; 
 	private boolean automove = false, movement = false, moveUp = false ,
 			moveDown = false, moveLeft = false, moveRight = false , alive = false,
-			onErossion = false ; 
+			onErossion = false , onDecreament = false  ; 
 	private Direction lastMove = Direction.EAST; 
-	private int score = 0 ;
+	private int score = 0  , tick = 0 ;
+	private SnakeType snakeType ; 
 	private int headidx = 0  , tailidx = 0 , size = 250  , positionx = 0 , positiony = 0,xdelta = 1, ydelta = 1 ; 
 	
-	public Snake() {
+	public Snake( SnakeType snakeType) {
+		this.snakeType = snakeType ; 
 		loadInitSnake();
 	}
 	
@@ -64,9 +68,24 @@ public class Snake {
 		/**/
 		
 	}
-	public synchronized void update() {
+	public void update() {
+		switch( this.snakeType ) {
+		case PLAYER : 
+			updatePlayer();
+			break ; 
+		case BOT : 
+			updateBot();
+			break ; 
+		default:
+			throw new IllegalArgumentException("Unexpected value: " + this.snakeType );
 		
+			
+		}
+	}
+	public void updateBot() {
 		
+	}
+	public synchronized void updatePlayer() {	
 		if ( movement ) {
 			if ( this.moveUp ) { positiony-= ydelta ;  };
 			if ( this.moveDown ) { positiony+= ydelta  ; };
@@ -106,13 +125,20 @@ public class Snake {
 		cmofSnake.add(headidx ,new Position(positionx+5,positiony+5 ) ); 
 		
 		
-		if ( onErossion && this.size > 15 ) {
+		if ( onDecreament && this.size > 15 ) {
 				Utility.UPS = 400 ; 
+				tick++ ; 
 				position.remove(tailidx);
 				cmofSnake.remove(tailidx);
 				headidx--;
-				this.size-- ; 
-					
+				this.size-- ;
+				if (  tick > 10 ) {
+					tick = 0 ; 
+					onErossion = true ; 
+				}else {
+					onErossion = false ; 
+				}
+				 					
 		}else {
 			Utility.UPS = 200 ; 
 		}
@@ -120,6 +146,9 @@ public class Snake {
 		
 		
 	}
+	
+	
+	
 	public void increaseSize() {
 		for ( int i = this.size ; i < this.size + 10 ; i++ ) {
 			position.add(0,new Position(-100,-100 ) );
@@ -131,30 +160,33 @@ public class Snake {
 		
 	}
 	
-	public int getXdelta() {
-		return xdelta;
+	
+	public boolean isOnDecreament() {
+		return onDecreament;
 	}
 
 
 
 
-	public void setXdelta(int xdelta) {
-		this.xdelta = xdelta;
+	public void setOnDecreament(boolean onDecreament) {
+		this.onDecreament = onDecreament;
 	}
 
 
 
 
-	public int getYdelta() {
-		return ydelta;
-	}
-
-
-
-
-	public void setYdelta(int ydelta) {
-		this.ydelta = ydelta;
-	}
+//	public int getXdelta() {
+//		return xdelta;
+//	}
+//  public void setXdelta(int xdelta) {
+//		this.xdelta = xdelta;
+//	}
+//  public int getYdelta() {
+//		return ydelta;
+//	}
+//	public void setYdelta(int ydelta) {
+//		this.ydelta = ydelta;
+//	}
 
 
 
@@ -225,17 +257,9 @@ public class Snake {
 	public boolean isOnErossion() {
 		return onErossion;
 	}
-
-
-
-
 	public void setOnErossion(boolean onErossion) {
 		this.onErossion = onErossion;
 	}
-
-
-
-
 	public void setHeadidx(int headidx) {
 		this.headidx = headidx;
 	}

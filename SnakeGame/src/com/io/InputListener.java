@@ -35,7 +35,7 @@ public class InputListener  implements KeyListener , MouseInputListener{
 	public void keyPressed(KeyEvent e) {
 		
 		if ( e.getKeyCode() == KeyEvent.VK_SPACE ){
-			this.snake.setOnErossion(true);
+			this.snake.setOnDecreament(true);
 			
 		};
 		
@@ -77,7 +77,7 @@ public class InputListener  implements KeyListener , MouseInputListener{
 	@Override
 	public void keyReleased(KeyEvent e) {
 		if ( e.getKeyCode() == KeyEvent.VK_SPACE ){
-			this.snake.setOnErossion(false);
+			this.snake.setOnDecreament(false);
 			
 			
 		};

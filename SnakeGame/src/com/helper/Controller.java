@@ -22,7 +22,7 @@ public class Controller {
 	}
 	public void checkGemsHit() {
 		for ( int i =  0 ; i < gemsManager.getGemsCount(); i++  ) {
-			if ( (this.gemsManager.getVisible())[i]  &&  checkHit(gemsManager.getPosition()[i]) ) {
+			if ( ( checkHit(gemsManager.getPosition().get(i))) ) {
 				
 				this.snake.setScore(this.snake.getScore()+1);
 				/**/
@@ -39,17 +39,25 @@ public class Controller {
 		checkGemsHit();
 		checkBoundaryHit();
 		checkSelfBite() ; 
+		addGemsonErossion();
 		
 	}
 	
+	private void addGemsonErossion() {
+		if ( this.snake.isOnErossion() ) {
+			this.gemsManager.addGemstoScreen(
+					new Gems(this.snake.getPosition().get(this.snake.getTailidx()).x,
+							this.snake.getPosition().get(this.snake.getTailidx()).y
+							));
+		}
+		
+	}
 	private void checkSelfBite() {
 		int snakeheadx = this.snake.getCmofSnake().get(this.snake.getHeadidx()).x; 
 		int snakeheady = this.snake.getCmofSnake().get(this.snake.getHeadidx()).y;
 		ArrayList<Position> cmofSnake  = this.snake.getCmofSnake() ; 
 		for ( int i = 0 ; i < this.snake.getSize() ; i++ ) {
 			if ( i != this.snake.getHeadidx() ) {
-				
-				
 				
 				if( snakeheadx == cmofSnake.get(i).x && 
 						snakeheady == cmofSnake.get(i).y ) {

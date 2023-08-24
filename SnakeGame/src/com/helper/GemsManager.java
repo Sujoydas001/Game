@@ -3,34 +3,38 @@ package com.helper;
 
 
 import java.awt.Graphics;
+import java.util.ArrayList;
 
 import com.entity.Gems;
 import com.utils.Utility;
 
 
 public class GemsManager implements Runnable{
-	private Gems[] position = new Gems[Utility.maxGemsCount] ; 
-	private boolean visible[] = new boolean[Utility.maxGemsCount] ; 
+	private ArrayList<Gems> position = new ArrayList<>() ;  
 	private int gemsCount = 0 ; 
 	
 	public GemsManager() {}
-	public void addGemstoScreen() {
+	private void addGemstoScreen() {
 		Gems gem = new Gems(); 
 		int size = gemsCount ; 
-		position[size] = gem ; 
-		visible[size++] = true ;  
-		gemsCount = size ; 
+		position.add(size, gem )  ; 
+		gemsCount = ++size ; 
+		
+	}
+	public void addGemstoScreen(Gems gem) {
+		int size = gemsCount ; 
+		position.add(size, gem )  ; 
+		gemsCount = ++size ; 
 		
 	}
 	public void removeGemsfromScreen(int idx) {
-		visible[idx] = false ;  
+		position.remove(idx);
+		this.gemsCount-- ; 
 	}
 	
 	public void refresh(Graphics g) {
 		for (  int i = 0 ; i < gemsCount ; i++  ) {
-			if ( visible[i] ) {
-				position[i].refresh(g);
-			}
+				position.get(i).refresh(g);
 		}
 	}
 	@Override
@@ -49,15 +53,10 @@ public class GemsManager implements Runnable{
 			}
 		}
 	}
-	public Gems[] getPosition() {
+	public ArrayList<Gems> getPosition() {
 		return position;
 	}
-	public boolean[] getVisible() {
-		return visible;
-	}
-	public void setVisible(boolean[] visible) {
-		this.visible = visible;
-	}
+
 	public int getGemsCount() {
 		return gemsCount;
 	}
