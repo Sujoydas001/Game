@@ -2,6 +2,8 @@ package encode_scheme;
 
 import java.awt.Graphics2D;
 
+import javax.swing.JOptionPane;
+
 /**
  * 
  * @author Dr. Sunirmal Khatua
@@ -10,6 +12,12 @@ import java.awt.Graphics2D;
 public  class EncoderFactory {
 	
 	public static void encode(Graphics2D g, String scheme, String data) {
+		try {
+			Helper.bitwidth = 600 / data.length() ; 
+		}catch (ArithmeticException e) {
+			JOptionPane.showMessageDialog(null, "must fill with some data") ; 
+		}
+		Helper.bitheight = 34; 
 		createEncoder(scheme).encode(g, data);
 	}
 	
@@ -29,6 +37,9 @@ public  class EncoderFactory {
 			return new PseudometryEncoder();
 		}else if(scheme.equals("RZ")) {
 			return new RzEncoder();
+		}
+		else if(scheme.equals("ALL")) {
+			return new AllEncoder("All encoding techniques");
 		}
 		else {
 			return null;//TO BE DONE for OTHER SCHEMES....

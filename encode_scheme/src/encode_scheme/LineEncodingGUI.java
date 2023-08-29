@@ -9,7 +9,10 @@ import javax.swing.JComboBox;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
+import javax.swing.JScrollPane;
+import javax.swing.JSpinner;
 import javax.swing.JTextField;
+import javax.swing.ScrollPaneConstants;
 
 /**
  * @Author Dr. Sunirmal Khatua
@@ -21,7 +24,7 @@ public class LineEncodingGUI extends JFrame implements ActionListener {
 	JPanel drawPanel = new JPanel();
 	public LineEncodingGUI() {
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
-		setSize(1000,400);
+		setSize(1000,1000);
 		setTitle("Line Encoding Techniques....");
 		initComponents();
 	}
@@ -30,7 +33,7 @@ public class LineEncodingGUI extends JFrame implements ActionListener {
 		JPanel topPanel = new JPanel();
 		topPanel.add(new JLabel("Input Data:"));
 		topPanel.add(inpData);
-		String list[] = {"NRZ-I","NRZ-L","RZ","Manchester","Differential Manchester","AMI","Pseudoternary"};
+		String list[] = {"NRZ-I","NRZ-L","RZ","Manchester","Differential Manchester","AMI","Pseudoternary","ALL"};
 		techniques = new JComboBox<String>(list);
 		topPanel.add(new JLabel("Technique:"));
 		topPanel.add(techniques);
@@ -48,6 +51,7 @@ public class LineEncodingGUI extends JFrame implements ActionListener {
 		drawPanel.setBackground(Color.WHITE);
 		add(drawPanel);
 		add(topPanel,BorderLayout.NORTH);
+
 		
 	}
 
@@ -74,6 +78,7 @@ public class LineEncodingGUI extends JFrame implements ActionListener {
 		String scheme = techniques.getSelectedItem().toString();
 		String data = inpData.getText();
 		Graphics2D g = (Graphics2D)drawPanel.getGraphics();
+		g.clearRect(0, 0, 1000, 1000);
 		EncoderFactory.encode(g,scheme, data);
 	}
 	
