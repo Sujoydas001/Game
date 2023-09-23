@@ -19,13 +19,12 @@ public class MenuScreen extends JFrame implements ChangeListener , ScreenCompone
 	 * 
 	 */
 	private static final long serialVersionUID = 1L ;
-	public JPanel windowPanel, mainPanel 
-	, newP,soundP,helpP ,modeP , scorecardP,recordP,showrecordP ,showHelpP , exitP ; 
-	public JLabel newL ,modeL, scoreL , soundL , helpL, recordL ;
+	public JPanel windowPanel, mainPanel , newP,soundP,helpP  , scorecardP,recordP,showrecordP ,showHelpP , exitP ; // ,modeP ; 
+	public JLabel newL , scoreL , soundL , helpL, recordL  ;// ,modeL  ;
 	public JTextArea showRecordL  =  new JTextArea() ; 
 	public JScrollPane jScrollPane; 
 
-	public JRadioButton rbeasy,rbmedium,rbhard ; 
+//	public JRadioButton rbeasy,rbmedium,rbhard ; 
 	public JSlider slider = new JSlider(JSlider.HORIZONTAL, 0, 100, 50);   
 	BufferedImage imgBufferedImage = null; 
 	public  MenuScreen() { 
@@ -68,18 +67,18 @@ public class MenuScreen extends JFrame implements ChangeListener , ScreenCompone
 			soundP.add(soundL,BorderLayout.WEST) ; 
 			soundP.add(slider,BorderLayout.CENTER) ; 
 			
-			modeP = new JPanel();
-			modeP.setLayout(new GridLayout(1,4)); 
-			modeP.setBackground(null);
-			modeL = new JLabel("MODE ") ; 
-			modeL.setForeground(Color.WHITE);
-				rbeasy =new JRadioButton("easy");  
-				rbmedium=new JRadioButton("medium");    
-				rbhard =new JRadioButton("hard");
-				rbeasy.setForeground(Color.WHITE);rbmedium.setBackground(Color.WHITE);rbhard.setBackground(Color.WHITE);
-				rbeasy.setBackground(null);rbmedium.setBackground(null);rbhard.setBackground(null);
-				rbeasy.addMouseListener(menuHandler);rbmedium.addMouseListener(menuHandler);rbhard.addMouseListener(menuHandler);
-			modeP.add(modeL) ; modeP.add(rbeasy) ;modeP.add(rbmedium); modeP.add(rbhard) ;
+//			modeP = new JPanel();
+//			modeP.setLayout(new GridLayout(1,4)); 
+//			modeP.setBackground(null);
+//			modeL = new JLabel("MODE ") ; 
+//			modeL.setForeground(Color.WHITE);
+//				rbeasy =new JRadioButton("easy");  
+//				rbmedium=new JRadioButton("medium");    
+//				rbhard =new JRadioButton("hard");
+//				rbeasy.setForeground(Color.WHITE);rbmedium.setBackground(Color.WHITE);rbhard.setBackground(Color.WHITE);
+//				rbeasy.setBackground(null);rbmedium.setBackground(null);rbhard.setBackground(null);
+//				rbeasy.addMouseListener(menuHandler);rbmedium.addMouseListener(menuHandler);rbhard.addMouseListener(menuHandler);
+//			modeP.add(modeL) ; modeP.add(rbeasy) ;modeP.add(rbmedium); modeP.add(rbhard) ;
 		
 			helpP = new JPanel();
 			helpP.setBackground(null);
@@ -99,7 +98,9 @@ public class MenuScreen extends JFrame implements ChangeListener , ScreenCompone
 			
 			
 			
-		mainPanel.add(scorecardP);  mainPanel.add(newP); mainPanel.add(modeP); mainPanel.add(soundP); mainPanel.add(helpP);mainPanel.add(recordP);  
+		mainPanel.add(scorecardP);  mainPanel.add(newP); 
+//		mainPanel.add(modeP); 
+		mainPanel.add(soundP); mainPanel.add(helpP);mainPanel.add(recordP);  
 //		showHelpP = new JPanel() ; 
 //		showHelpP.setLayout(new FlowLayout());
 //		showHelpP.setBounds((Utility.screenWidth-200)/2+130, (

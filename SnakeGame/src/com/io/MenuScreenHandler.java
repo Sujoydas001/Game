@@ -15,31 +15,31 @@ public class MenuScreenHandler implements MouseInputListener {
 	}
 	@Override
 	public void mouseClicked(MouseEvent e) {
-		if ( e.getSource().equals( menuScreen.rbeasy ) && 
-				menuScreen.rbeasy.isEnabled()){
-			menuScreen.rbmedium.setSelected(false); 
-			menuScreen.rbhard.setSelected(false); 
-//			Utility.mode = MODES.EASY ; 
-		}
-		if ( e.getSource().equals(menuScreen.rbmedium ) &&
-				menuScreen.rbmedium.isEnabled()) { 
-			menuScreen.rbeasy.setSelected(false); 
-			menuScreen.rbhard.setSelected(false); 
-//			Utility.mode = MODES.MEDIUM ; 
-		}
-		if ( e.getSource().equals(menuScreen.rbhard ) && 
-				menuScreen.rbhard.isEnabled()) {
-			menuScreen.rbmedium.setSelected(false); 
-			menuScreen.rbeasy.setSelected(false); 
-//			Utility.mode = MODES.HARD ; 
-		}
-		if ( e.getSource().equals( menuScreen.rbeasy ) || 
-				e.getSource().equals( menuScreen.rbmedium ) ||
-				e.getSource().equals( menuScreen.rbhard ) ) {
-			menuScreen.rbeasy.setForeground(Color.BLACK);
-			menuScreen.rbmedium.setForeground(Color.BLACK);
-			menuScreen.rbhard.setForeground(Color.BLACK);
-		}
+//		if ( e.getSource().equals( menuScreen.rbeasy ) && 
+//				menuScreen.rbeasy.isEnabled()){
+//			menuScreen.rbmedium.setSelected(false); 
+//			menuScreen.rbhard.setSelected(false); 
+////			Utility.mode = MODES.EASY ; 
+//		}
+//		if ( e.getSource().equals(menuScreen.rbmedium ) &&
+//				menuScreen.rbmedium.isEnabled()) { 
+//			menuScreen.rbeasy.setSelected(false); 
+//			menuScreen.rbhard.setSelected(false); 
+////			Utility.mode = MODES.MEDIUM ; 
+//		}
+//		if ( e.getSource().equals(menuScreen.rbhard ) && 
+//				menuScreen.rbhard.isEnabled()) {
+//			menuScreen.rbmedium.setSelected(false); 
+//			menuScreen.rbeasy.setSelected(false); 
+////			Utility.mode = MODES.HARD ; 
+//		}
+//		if ( e.getSource().equals( menuScreen.rbeasy ) || 
+//				e.getSource().equals( menuScreen.rbmedium ) ||
+//				e.getSource().equals( menuScreen.rbhard ) ) {
+//			menuScreen.rbeasy.setForeground(Color.BLACK);
+//			menuScreen.rbmedium.setForeground(Color.BLACK);
+//			menuScreen.rbhard.setForeground(Color.BLACK);
+//		}
 
 		
 //		if ( e.getSource().equals(this.menuScreen.newP)) {
@@ -47,23 +47,23 @@ public class MenuScreenHandler implements MouseInputListener {
 //			this.menuScreen.newP.setBackground(Color.BLACK);
 //		}
 		if ( e.getSource().equals( menuScreen.newL )) {
-			if ( !( menuScreen.rbeasy.isEnabled() &&
-					menuScreen.rbmedium.isEnabled() &&
-					menuScreen.rbhard.isEnabled() )||
-					!( menuScreen.rbeasy.isSelected() ||
-							menuScreen.rbmedium.isSelected() ||
-							menuScreen.rbhard.isSelected()
-							) )
-			{
-				
-				menuScreen.rbeasy.setEnabled(true) ;  
-				menuScreen.rbmedium.setEnabled(true) ;  
-				menuScreen.rbhard.setEnabled(true) ;  
-				menuScreen.rbeasy.setForeground(Color.RED);
-				menuScreen.rbmedium.setForeground(Color.RED);
-				menuScreen.rbhard.setForeground(Color.RED);
-			}else{
-				
+//			if ( !( menuScreen.rbeasy.isEnabled() &&
+//					menuScreen.rbmedium.isEnabled() &&
+//					menuScreen.rbhard.isEnabled() )||
+//					!( menuScreen.rbeasy.isSelected() ||
+//							menuScreen.rbmedium.isSelected() ||
+//							menuScreen.rbhard.isSelected()
+//							) )
+//			{
+//				
+//				menuScreen.rbeasy.setEnabled(true) ;  
+//				menuScreen.rbmedium.setEnabled(true) ;  
+//				menuScreen.rbhard.setEnabled(true) ;  
+//				menuScreen.rbeasy.setForeground(Color.RED);
+//				menuScreen.rbmedium.setForeground(Color.RED);
+//				menuScreen.rbhard.setForeground(Color.RED);
+//			}else{
+//				
 					Utility.gameManager.lapseExistingGame(); 
 					
 					try {
@@ -77,7 +77,7 @@ public class MenuScreenHandler implements MouseInputListener {
 				Utility.gameManager.generateNewGame();
 				Utility.log.d("next calling generate new game ");
 			}; 
-		}
+//		}
 		if ( e.getSource().equals(menuScreen.helpL)) {
 //			if ( menuScreen.showHelpP.isVisible() ) {
 ////				menuScreen.showHelpP.setVisible(false);
@@ -120,10 +120,10 @@ public class MenuScreenHandler implements MouseInputListener {
 			this.menuScreen.newP.setBackground(Color.LIGHT_GRAY);
 			this.menuScreen.newL.setForeground(Color.BLACK);
 		}
-		if ( e.getSource().equals(this.menuScreen.modeL)) {
-			this.menuScreen.modeP.setBackground(Color.LIGHT_GRAY);
-			this.menuScreen.modeL.setForeground(Color.BLACK);
-		}
+//		if ( e.getSource().equals(this.menuScreen.modeL)) {
+//			this.menuScreen.modeP.setBackground(Color.LIGHT_GRAY);
+//			this.menuScreen.modeL.setForeground(Color.BLACK);
+//		}
 		if ( e.getSource().equals(this.menuScreen.scoreL)) {
 			this.menuScreen.scorecardP.setBackground(Color.LIGHT_GRAY);
 			this.menuScreen.scoreL.setForeground(Color.BLACK);
@@ -149,11 +149,11 @@ public class MenuScreenHandler implements MouseInputListener {
 			this.menuScreen.newL.setForeground(Color.WHITE);
 			
 		}
-		if ( e.getSource().equals(this.menuScreen.modeL)) {
-			this.menuScreen.modeP.setBackground(null);
-			this.menuScreen.modeL.setForeground(Color.WHITE);
-			
-		}
+//		if ( e.getSource().equals(this.menuScreen.modeL)) {
+//			this.menuScreen.modeP.setBackground(null);
+//			this.menuScreen.modeL.setForeground(Color.WHITE);
+//			
+//		}
 		if ( e.getSource().equals(this.menuScreen.scoreL)) {
 			this.menuScreen.scorecardP.setBackground(null);
 			this.menuScreen.scoreL.setForeground(Color.WHITE);
