@@ -1,17 +1,14 @@
 package com.components;
 import java.awt.Color;
-import java.awt.Dimension;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
-
-import javax.swing.JFrame;
 import javax.swing.JPanel;
-
 import com.entity.Snake;
 import com.helper.Controller;
 import com.helper.GemsManager;
 import com.io.InputListener;
 import com.utils.Utility;
+
 
 public class GamePanel extends JPanel implements ScreenComponents{
 	public  Snake snake =  null ; 
